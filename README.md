@@ -21,7 +21,7 @@ Here is deposited data described in the manuscript:
 
 :file_folder: directory: `docking/`
 
-:information_source: Please note, that some of the files are compressed with the [xz](https://en.wikipedia.org/wiki/XZ_Utils). To uncompress the file, just type `xz -d file.xz` or use [7-zip archiver](https://en.wikipedia.org/wiki/7-Zip).
+Please note, that some of the files are compressed with the [xz](https://en.wikipedia.org/wiki/XZ_Utils). To uncompress the file, just type `xz -d file.xz` or use [7-zip archiver](https://en.wikipedia.org/wiki/7-Zip).
 
 - `datasets.csv` - definitions of 2013, 2016, and testing datasets
 
