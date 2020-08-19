@@ -15,7 +15,15 @@
 
 Here is deposited data described in the manuscript:
 - `1-selected_examples` - selected examples from the test set
-- `2-case_study` - the cae study
+
+```
+docking.rmsd        -- RMSD values
+docking.score       -- score values from the docking program
+annapurna.score     -- score values from AnnapuRNA
+pymol-session.pse   -- PyMOL session with structures
+```
+
+- `2-case_study` - the files used in the study: RNA structures, best docking poses from rDock and selected by AnnapuRNA, the reference ligand coordinates; the PyMOL session with all results visualized.
 
 # Training and testing datasets
 
