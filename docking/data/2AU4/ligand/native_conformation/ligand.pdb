@@ -1,0 +1,280 @@
+HEADER    RNA                                     26-AUG-05   2AU4              
+TITLE     CLASS I GTP APTAMER                                                   
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: CLASS I RNA APTAMER TO GTP;                                
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 OTHER_DETAILS: IN VITRO SELECTION                                    
+KEYWDS    RNA, APTAMER                                                          
+EXPDTA    SOLUTION NMR                                                          
+AUTHOR    J.M.CAROTHERS,J.H.DAVIS,J.J.CHOU,J.W.SZOSTAK                          
+REVDAT   3   24-FEB-09 2AU4    1       VERSN                                    
+REVDAT   2   18-APR-06 2AU4    1       JRNL                                     
+REVDAT   1   28-MAR-06 2AU4    0                                                
+JRNL        AUTH   J.M.CAROTHERS,J.H.DAVIS,J.J.CHOU,J.W.SZOSTAK                 
+JRNL        TITL   SOLUTION STRUCTURE OF AN INFORMATIONALLY COMPLEX             
+JRNL        TITL 2 HIGH-AFFINITY RNA APTAMER TO GTP.                            
+JRNL        REF    RNA                           V.  12   567 2006              
+JRNL        REFN                   ISSN 1355-8382                               
+JRNL        PMID   16510427                                                     
+JRNL        DOI    10.1261/RNA.2251306                                          
+REMARK   1                                                                      
+REMARK   2                                                                      
+REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : XPLOR-NIH 2.9.2                                      
+REMARK   3   AUTHORS     : CLORE, TJANDRA, SCHWIETERS, KUSZEWSKI                
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: STRUCTURES ARE BASED ON A TOTAL OF        
+REMARK   3  434 RESTRAINTS                                                      
+REMARK   4                                                                      
+REMARK   4 2AU4 COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 29-AUG-05.                  
+REMARK 100 THE RCSB ID CODE IS RCSB034313.                                      
+REMARK 210                                                                      
+REMARK 210 EXPERIMENTAL DETAILS                                                 
+REMARK 210  EXPERIMENT TYPE                : NMR                                
+REMARK 210  TEMPERATURE           (KELVIN) : 288; 303; 298; 303                 
+REMARK 210  PH                             : 6.1; 6.1; 6.1; 6.8                 
+REMARK 210  IONIC STRENGTH                 : 5 MM MGCL2, 75 MM KCL; 5 MM        
+REMARK 210                                   MGCL2, 75 MM KCL; 5 MM MGCL2,      
+REMARK 210                                   75 MM KCL; 5 MM MGCL2, 75 MM       
+REMARK 210                                   KCL                                
+REMARK 210  PRESSURE                       : AMBIENT; AMBIENT; AMBIENT;         
+REMARK 210                                   AMBIENT                            
+REMARK 210  SAMPLE CONTENTS                : 3.3 MM CLASS I APTAMER U-15N,      
+REMARK 210                                   13C, 3.63 MM GTP LIGAND NA, 10     
+REMARK 210                                   % PHOSPHATE BUFFER NA, 99%         
+REMARK 210                                   D2O; 0.9 MM CLASS I APTAMER        
+REMARK 210                                   NA, 0.99 NM GTP LIGAND U-15N,      
+REMARK 210                                   13C, 10 % PHOSPATE BUFFER NA,      
+REMARK 210                                   99% D2O; 3.3 MM CLASS I            
+REMARK 210                                   APTAMER U-15N, 13C; 3.63 MM        
+REMARK 210                                   GTP LIGAND NA; 10 % PHOSPHATE      
+REMARK 210                                   BUFFER NA, 95% H2O, 5% D2O;        
+REMARK 210                                   0.9 MM CLASS I APTAMER NA;         
+REMARK 210                                   0.99 NM GTP LIGAND U-15N, 13C;     
+REMARK 210                                   10 % PHOSPATE BUFFER NA, 95%       
+REMARK 210                                   H2O, 5% D2O; 0.8 MM CLASS I        
+REMARK 210                                   RNA APTAMER U-15N,13C, 0.9 MM      
+REMARK 210                                   GTP NA, 10% PHOSPHATE BUFFER       
+REMARK 210                                   NA, 95% H2O, 5% D2O; 0.5 MM        
+REMARK 210                                   CLASS I RNA APTAMER U-15N,13C,     
+REMARK 210                                   0.55 MM GTP NA, 18 ML/MG PF1       
+REMARK 210                                   PHAGE NA, 10% PHOSPHATE BUFFER     
+REMARK 210                                   NA, 95% H2O, 5% D2O                
+REMARK 210                                                                      
+REMARK 210  NMR EXPERIMENTS CONDUCTED      : 3D_13C-SEPARATED_NOESY, 3D_        
+REMARK 210                                   15N-SEPARATED_NOESY, 2D NOESY,     
+REMARK 210                                   DQF-COSY, 2D 1H DECOUPLED 13C-     
+REMARK 210                                   1H CT HSQC, 2D 13C-1H CT-TROSY     
+REMARK 210  SPECTROMETER FIELD STRENGTH    : 750 MHZ, 500 MHZ, 400 MHZ          
+REMARK 210  SPECTROMETER MODEL             : INOVA, UNITY, AVANCE               
+REMARK 210  SPECTROMETER MANUFACTURER      : VARIAN, BRUKER                     
+REMARK 210                                                                      
+REMARK 210  STRUCTURE DETERMINATION.                                            
+REMARK 210   SOFTWARE USED                 : NMRPIPE 2.3, XPLOR-NIH 2.9.2,      
+REMARK 210                                   SPARKY 3                           
+REMARK 210   METHOD USED                   : RESTRAINED MOLECULAR DYNAMICS      
+REMARK 210                                                                      
+REMARK 210 CONFORMERS, NUMBER CALCULATED   : NULL                               
+REMARK 210 CONFORMERS, NUMBER SUBMITTED    : 1                                  
+REMARK 210 CONFORMERS, SELECTION CRITERIA  : NULL                               
+REMARK 210                                                                      
+REMARK 210 BEST REPRESENTATIVE CONFORMER IN THIS ENSEMBLE : 1                   
+REMARK 210                                                                      
+REMARK 210 REMARK: NULL                                                         
+REMARK 215                                                                      
+REMARK 215 NMR STUDY                                                            
+REMARK 215 THE COORDINATES IN THIS ENTRY WERE GENERATED FROM SOLUTION           
+REMARK 215 NMR DATA.  PROTEIN DATA BANK CONVENTIONS REQUIRE THAT                
+REMARK 215 CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES ON              
+REMARK 215 THESE RECORDS ARE MEANINGLESS.                                       
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+REMARK 500                                                                      
+REMARK 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+REMARK 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+REMARK 500      G A   1   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES          
+REMARK 500      G A   1   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A   1   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G A   2   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A   2   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G A   3   N7  -  C8  -  N9  ANGL. DEV. =   4.4 DEGREES          
+REMARK 500      G A   3   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      A A   4   N7  -  C8  -  N9  ANGL. DEV. =   3.8 DEGREES          
+REMARK 500      G A   6   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A   6   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      A A   7   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES          
+REMARK 500      A A   7   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES          
+REMARK 500      A A   8   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES          
+REMARK 500      G A   9   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A   9   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES          
+REMARK 500      U A  10   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  11   N7  -  C8  -  N9  ANGL. DEV. =   4.4 DEGREES          
+REMARK 500      G A  11   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES          
+REMARK 500      G A  12   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  12   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  12   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      U A  14   C3' -  C2' -  C1' ANGL. DEV. =   5.0 DEGREES          
+REMARK 500      G A  15   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  15   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G A  16   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A  16   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G A  17   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES          
+REMARK 500      G A  17   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  17   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G A  19   N7  -  C8  -  N9  ANGL. DEV. =   4.7 DEGREES          
+REMARK 500      G A  19   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      U A  22   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  24   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  24   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A  24   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES          
+REMARK 500      G A  25   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  25   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES          
+REMARK 500      G A  27   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  27   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES          
+REMARK 500      U A  28   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  29   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  29   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G A  29   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      U A  30   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  31   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      G A  31   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  31   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      A A  32   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES          
+REMARK 500      A A  32   N7  -  C8  -  N9  ANGL. DEV. =   3.7 DEGREES          
+REMARK 500      A A  33   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES          
+REMARK 500                                                                      
+REMARK 500 THIS ENTRY HAS      58 ANGLE DEVIATIONS.                             
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE GTP A 42                  
+DBREF  2AU4 A    1    41  PDB    2AU4     2AU4             1     41             
+SEQRES   1 A   41    G   G   G   A   C   G   A   A   G   U   G   G   U          
+SEQRES   2 A   41    U   G   G   G   C   G   C   U   U   C   G   G   C          
+SEQRES   3 A   41    G   U   G   U   G   A   A   A   A   C   G   U   C          
+SEQRES   4 A   41    C   C                                                      
+HET    GTP  A  42      45                                                       
+HETNAM     GTP GUANOSINE-5'-TRIPHOSPHATE                                        
+FORMUL   2  GTP    C10 H16 N5 O14 P3                                            
+SITE     1 AC1  7   A A   8    G A   9    G A  11    G A  15                    
+SITE     2 AC1  7   G A  16    G A  31    A A  32                               
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+MDLTYP    MINIMIZED AVERAGE                                                     
+HETATM    1  PG  GTP A  42      70.391  11.474   0.227  1.00  5.04           P
+HETATM    2  O1G GTP A  42      71.638  12.259   0.327  1.00  5.38           O
+HETATM    3  O2G GTP A  42      69.355  11.854  -0.756  1.00  5.20           O
+HETATM    4  O3G GTP A  42      70.778   9.933  -0.010  1.00  5.90           O
+HETATM    5  O3B GTP A  42      69.711  11.447   1.667  1.00  4.36           O
+HETATM    6  PB  GTP A  42      68.784  10.209   2.032  1.00  3.58           P
+HETATM    7  O1B GTP A  42      67.844  10.630   3.089  1.00  3.77           O
+HETATM    8  O2B GTP A  42      69.652   9.031   2.238  1.00  4.21           O
+HETATM    9  O3A GTP A  42      67.961   9.988   0.694  1.00  2.84           O
+HETATM   10  PA  GTP A  42      66.647   9.101   0.777  1.00  2.47           P
+HETATM   11  O1A GTP A  42      65.498  10.009   0.967  1.00  2.94           O
+HETATM   12  O2A GTP A  42      66.898   8.011   1.744  1.00  3.02           O
+HETATM   13  O5' GTP A  42      66.562   8.468  -0.700  1.00  2.30           O
+HETATM   14  C5' GTP A  42      66.942   7.103  -0.941  1.00  2.18           C
+HETATM   15  C4' GTP A  42      67.534   6.900  -2.328  1.00  2.11           C
+HETATM   16  O4' GTP A  42      68.965   7.078  -2.300  1.00  1.98           O
+HETATM   17  C3' GTP A  42      67.238   5.499  -2.840  1.00  2.11           C
+HETATM   18  O3' GTP A  42      66.408   5.545  -4.007  1.00  2.33           O
+HETATM   19  C2' GTP A  42      68.573   4.864  -3.148  1.00  2.00           C
+HETATM   20  O2' GTP A  42      68.655   4.469  -4.524  1.00  2.19           O
+HETATM   21  C1' GTP A  42      69.628   5.907  -2.822  1.00  1.92           C
+HETATM   22  N9  GTP A  42      70.604   5.377  -1.850  1.00  1.80           N
+HETATM   23  C8  GTP A  42      71.841   4.863  -2.063  1.00  1.79           C
+HETATM   24  N7  GTP A  42      72.509   4.457  -1.033  1.00  1.75           N
+HETATM   25  C5  GTP A  42      71.612   4.731   0.005  1.00  1.71           C
+HETATM   26  C6  GTP A  42      71.748   4.520   1.399  1.00  1.72           C
+HETATM   27  O6  GTP A  42      72.706   4.063   2.008  1.00  1.77           O
+HETATM   28  N1  GTP A  42      70.623   4.933   2.090  1.00  1.75           N
+HETATM   29  C2  GTP A  42      69.500   5.484   1.520  1.00  1.78           C
+HETATM   30  N2  GTP A  42      68.524   5.822   2.352  1.00  1.88           N
+HETATM   31  N3  GTP A  42      69.357   5.689   0.213  1.00  1.78           N
+HETATM   32  C4  GTP A  42      70.445   5.293  -0.487  1.00  1.74           C
+HETATM   33 HOG3 GTP A  42      71.484   9.916  -0.658  1.00  6.35           H
+HETATM   34  H5' GTP A  42      66.065   6.472  -0.878  1.00  2.57           H
+HETATM   35 H5'' GTP A  42      67.672   6.800  -0.176  1.00  2.44           H
+HETATM   36  H4' GTP A  42      67.099   7.628  -3.011  1.00  2.26           H
+HETATM   37  H3' GTP A  42      66.740   4.925  -2.056  1.00  2.11           H
+HETATM   38 HO3' GTP A  42      66.939   5.235  -4.748  1.00  2.40           H
+HETATM   39  H2' GTP A  42      68.715   3.994  -2.505  1.00  1.93           H
+HETATM   40 HO2' GTP A  42      69.570   4.598  -4.805  1.00  2.31           H
+HETATM   41  H1' GTP A  42      70.154   6.176  -3.737  1.00  2.00           H
+HETATM   42  H8  GTP A  42      72.259   4.795  -3.068  1.00  1.87           H
+HETATM   43  HN1 GTP A  42      70.657   4.820   3.090  1.00  1.80           H
+HETATM   44 HN21 GTP A  42      68.628   5.668   3.343  1.00  2.16           H
+HETATM   45 HN22 GTP A  42      67.676   6.233   1.990  1.00  2.07           H
+CONECT   21   16   19   22   41
+CONECT   29   28   30   31
+CONECT   19   17   20   21   39
+CONECT   17   15   18   19   37
+CONECT   32   22   25   31
+CONECT   15   14   16   17   36
+CONECT   25   24   26   32
+CONECT   14   13   15   34   35
+CONECT   26   25   27   28
+CONECT   23   22   24   42
+CONECT   41   21
+CONECT   39   19
+CONECT   37   17
+CONECT   36   15
+CONECT   34   14
+CONECT   35   14
+CONECT   42   23
+CONECT   43   28
+CONECT   44   30
+CONECT   45   30
+CONECT   40   20
+CONECT   38   18
+CONECT   33    4
+CONECT   28   26   29   43
+CONECT   30   29   44   45
+CONECT   31   29   32
+CONECT   24   23   25
+CONECT   22   21   23   32
+CONECT   11   10
+CONECT    7    6
+CONECT    2    1
+CONECT   20   19   40
+CONECT   12   10
+CONECT    8    6
+CONECT    3    1
+CONECT   18   17   38
+CONECT    9    6   10
+CONECT    5    1    6
+CONECT    4    1   33
+CONECT   16   15   21
+CONECT   13   10   14
+CONECT   27   26
+CONECT   10    9   11   12   13
+CONECT    6    5    7    8    9
+CONECT    1    2    3    4    5
+END

@@ -1,0 +1,117 @@
+3DW4_GOL_A_1
+ OpenBabel10091713573D
+Coordinates from PDB:3DW4:A:1 Model:1 without hydrogens
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    5.4050    3.2320   -4.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2590    3.2680   -5.0600 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4930    1.8880   -3.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4690    1.7820   -2.5580 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8620    1.7540   -2.8650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9640    0.5100   -2.2100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3457    4.0161   -3.5133 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2761    3.3643   -4.8462 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662    3.1485   -4.5140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3672    1.0987   -4.2353 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5673    2.4911   -1.9035 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9901    2.5412   -2.1517 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6206    1.8174   -3.6169 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2782    0.4471   -1.5269 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+A    1
+C1
+A    2
+O1
+A    3
+C2
+A    4
+O2
+A    5
+C3
+A    6
+O3
+M  END
+>  <InstanceId>
+3DW4_GOL_A_1
+
+>  <ChemCompId>
+GOL
+
+>  <PdbId>
+3DW4
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C3 O3
+
+>  <Name>
+GLYCEROL
+
+>  <SystematicName>
+propane-1,2,3-triol
+
+>  <Synonyms>
+GLYCERIN; PROPANE-1,2,3-TRIOL
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C3 H8 O3
+
+>  <MolecularWeight>
+92.094
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2
+
+>  <InChIKey>
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+
+>  <SMILES>
+C(C(CO)O)O
+
+$$$$

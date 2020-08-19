@@ -1,0 +1,127 @@
+4LX6_29H_A_601
+ OpenBabel10091713583D
+Coordinates from PDB:4LX6:A:601 Model:1 without hydrogens
+ 12 13  0  0  0  0  0  0  0  0999 V2000
+   30.7230   17.0600   13.8850 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1430   16.8500   15.1310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3910   15.8840   15.2870 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4440   17.7390   16.1660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8920   17.5610   17.4260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2060   18.4820   18.4540 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0750   19.5530   18.1930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6150   19.7040   16.9020 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3120   18.8150   15.9350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8420   18.9910   14.7180 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5860   18.1570   13.7050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1480   18.3870   12.5240 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  4  2  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+A    1
+NAH
+A    2
+CAJ
+A    3
+OAB
+A    4
+C5
+A    5
+C6
+A    6
+N1
+A    7
+C2
+A    8
+N3
+A    9
+C4
+A   10
+NAG
+A   11
+CAI
+A   12
+NAA
+M  END
+>  <InstanceId>
+4LX6_29H_A_601
+
+>  <ChemCompId>
+29H
+
+>  <PdbId>
+4LX6
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+601
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C6 N5 O
+
+>  <Name>
+2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one
+
+>  <SystematicName>
+2-azanyl-3H-pyrimido[4,5-d]pyrimidin-4-one
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C6 H5 N5 O
+
+>  <MolecularWeight>
+163.137
+
+>  <ModifiedDate>
+2014-07-11
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C6H5N5O/c7-6-10-4-3(5(12)11-6)1-8-2-9-4/h1-2H,(H3,7,8,9,10,11,12)
+
+>  <InChIKey>
+HHOGMIYMABYION-UHFFFAOYSA-N
+
+>  <SMILES>
+c1c2c(ncn1)N=C(NC2=O)N
+
+$$$$

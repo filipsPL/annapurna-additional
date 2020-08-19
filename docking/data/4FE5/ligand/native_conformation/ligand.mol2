@@ -1,0 +1,30 @@
+@<TRIPOS>MOLECULE
+4FE5_HPA_B_101
+ 10 11 0 0 0
+SMALL
+GASTEIGER
+****
+Coordinates from PDB:4FE5:B:101 Model:1 without hydrogens
+@<TRIPOS>ATOM
+      1 N          12.1410   10.7120    9.0650 N.ar    1  UNL1       -0.1841
+      2 C          11.7000   12.0040    9.2300 C.ar    1  UNL1        0.2031
+      3 N          11.2260   12.7260    8.2130 N.ar    1  UNL1       -0.2030
+      4 C          11.2290   12.0570    7.0250 C.ar    1  UNL1        0.1881
+      5 C          11.6580   10.7650    6.7930 C.ar    1  UNL1        0.1763
+      6 C          12.1630    9.9890    7.8720 C.ar    1  UNL1        0.3014
+      7 O          12.5920    8.8290    7.8920 O.2     1  UNL1       -0.2634
+      8 N          11.4900   10.4850    5.4660 N.ar    1  UNL1       -0.2159
+      9 C          10.9620   11.5940    4.8980 C.ar    1  UNL1        0.2005
+     10 N          10.7890   12.5870    5.8380 N.ar    1  UNL1       -0.2031
+@<TRIPOS>BOND
+     1     1     2   ar
+     2     1     6   ar
+     3     2     3   ar
+     4     3     4   ar
+     5     4     5   ar
+     6     4    10   ar
+     7     5     6   ar
+     8     5     8   ar
+     9     6     7    2
+    10     8     9   ar
+    11     9    10   ar

@@ -1,0 +1,133 @@
+1XPF_SPM_A_108
+ OpenBabel10091713573D
+Coordinates from PDB:1XPF:A:108 Model:1 without hydrogens
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+   21.5750    4.7280   61.1970 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6570    4.7350   62.3210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2340    4.0190   63.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1880    3.0580   63.9560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8050    2.2700   65.0510 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4370    0.8260   64.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0040    0.1550   63.6680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5840   -1.3160   63.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6000   -1.4250   62.3450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7960   -2.6180   62.6480 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0190   -3.8390   61.8240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0020   -4.8000   62.4770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7800   -4.7190   63.9660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0710   -5.8500   64.5390 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+A    1
+N1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+N5
+A    6
+C6
+A    7
+C7
+A    8
+C8
+A    9
+C9
+A   10
+N10
+A   11
+C11
+A   12
+C12
+A   13
+C13
+A   14
+N14
+M  END
+>  <InstanceId>
+1XPF_SPM_A_108
+
+>  <ChemCompId>
+SPM
+
+>  <PdbId>
+1XPF
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+108
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C10 N4
+
+>  <Name>
+SPERMINE
+
+>  <SystematicName>
+N,N'-bis(3-aminopropyl)butane-1,4-diamine
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C10 H26 N4
+
+>  <MolecularWeight>
+202.34
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C10H26N4/c11-5-3-9-13-7-1-2-8-14-10-4-6-12/h13-14H,1-12H2
+
+>  <InChIKey>
+PFNFFQXMRSDOHW-UHFFFAOYSA-N
+
+>  <SMILES>
+C(CCNCCCN)CNCCCN
+
+$$$$

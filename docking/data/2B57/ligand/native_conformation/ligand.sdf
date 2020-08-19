@@ -1,0 +1,123 @@
+2B57_6AP_A_91
+ OpenBabel10091713573D
+Coordinates from PDB:2B57:A:91 Model:1 without hydrogens
+ 11 12  0  0  0  0  0  0  0  0999 V2000
+  -10.7420  -14.3920    6.0490 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8930  -13.3930    5.1820 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4040  -12.3340    5.8060 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.5800  -12.6600    7.0830 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1580  -13.9740    7.2410 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2150  -14.5540    8.4490 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6740  -13.8770    9.5130 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7090  -14.4680   10.7040 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0880  -12.6060    9.3870 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0540  -11.9800    8.2000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.4770  -10.7240    8.0920 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+A    1
+N9
+A    2
+C8
+A    3
+N7
+A    4
+C5
+A    5
+C4
+A    6
+N3
+A    7
+C2
+A    8
+N2
+A    9
+N1
+A   10
+C6
+A   11
+N6
+M  END
+>  <InstanceId>
+2B57_6AP_A_91
+
+>  <ChemCompId>
+6AP
+
+>  <PdbId>
+2B57
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+91
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C5 N6
+
+>  <Name>
+9H-PURINE-2,6-DIAMINE
+
+>  <SystematicName>
+9H-purine-2,6-diamine
+
+>  <Synonyms>
+2,6-DIAMINOPURINE
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C5 H6 N6
+
+>  <MolecularWeight>
+150.141
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C5H6N6/c6-3-2-4(9-1-8-2)11-5(7)10-3/h1H,(H5,6,7,8,9,10,11)
+
+>  <InChIKey>
+MSSXOMSJDRHRMC-UHFFFAOYSA-N
+
+>  <SMILES>
+c1[nH]c2c(n1)c(nc(n2)N)N
+
+$$$$

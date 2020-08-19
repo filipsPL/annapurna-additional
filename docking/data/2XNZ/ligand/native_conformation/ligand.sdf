@@ -1,0 +1,114 @@
+2XNZ_3AW_A_1088
+ OpenBabel10091713583D
+Coordinates from PDB:2XNZ:A:1088 Model:1 without hydrogens
+  9  9  0  0  0  0  0  0  0  0999 V2000
+   11.9750    1.7570   11.5000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9410    2.3020   12.7330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4240    3.7380   12.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5010    1.5820   13.7780 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5490    0.4910   11.3310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0740    0.3270   13.6040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0970   -0.2110   12.3820 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6190   -0.3980   14.6220 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5590   -0.0830   10.1220 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  1  1  0  0  0  0
+  4  2  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  6  1  0  0  0  0
+A    1
+N1
+A    2
+C6
+A    3
+C5
+A    4
+NAA
+A    5
+C2
+A    6
+CAI
+A    7
+NAH
+A    8
+NAI
+A    9
+N3
+M  END
+>  <InstanceId>
+2XNZ_3AW_A_1088
+
+>  <ChemCompId>
+3AW
+
+>  <PdbId>
+2XNZ
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1088
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C4 N5
+
+>  <Name>
+6-METHYL-1,3,5-TRIAZINE-2,4-DIAMINE
+
+>  <SystematicName>
+6-methyl-1,3,5-triazine-2,4-diamine
+
+>  <Synonyms>
+ACETOGUANAMINE
+
+>  <Type>
+non-polymer
+
+>  <Formula>
+C4 H7 N5
+
+>  <MolecularWeight>
+125.132
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C4H7N5/c1-2-7-3(5)9-4(6)8-2/h1H3,(H4,5,6,7,8,9)
+
+>  <InChIKey>
+NJYZCEFQAIUHSD-UHFFFAOYSA-N
+
+>  <SMILES>
+Cc1nc(nc(n1)N)N
+
+$$$$

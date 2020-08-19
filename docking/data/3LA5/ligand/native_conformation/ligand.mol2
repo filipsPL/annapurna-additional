@@ -1,0 +1,25 @@
+@<TRIPOS>MOLECULE
+3LA5_5AZ_A_84
+ 8 8 0 0 0
+SMALL
+GASTEIGER
+****
+Coordinates from PDB:3LA5:A:84 Model:1 without hydrogens
+@<TRIPOS>ATOM
+      1 C          11.0480   13.1520    0.6290 C.ar    1  UNL1        0.3726
+      2 N          11.0290   12.4190    1.7420 N.ar    1  UNL1       -0.1550
+      3 C          10.4680   11.2070    1.7260 C.ar    1  UNL1        0.2619
+      4 N           9.9350   10.7180    0.5820 N.ar    1  UNL1       -0.1886
+      5 C           9.9550   11.4690   -0.5320 C.ar    1  UNL1        0.2057
+      6 N          10.5160   12.6880   -0.5140 N.ar    1  UNL1       -0.1684
+      7 N          10.4620   10.4230    2.9790 N.pl3   1  UNL1       -0.0859
+      8 O          11.6260   14.3740    0.6840 O.2     1  UNL1       -0.2425
+@<TRIPOS>BOND
+     1     1     2   ar
+     2     1     6   ar
+     3     1     8    2
+     4     2     3   ar
+     5     3     4   ar
+     6     3     7    1
+     7     4     5   ar
+     8     5     6   ar

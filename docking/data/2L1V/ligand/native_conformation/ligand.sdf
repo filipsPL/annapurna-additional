@@ -1,0 +1,131 @@
+2L1V_PRF_A_37
+ OpenBabel10091713583D
+Coordinates from PDB:2L1V:A:37 Model:1 without hydrogens
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+    2.1260    3.3000   -4.6910 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3920    2.7990   -4.8710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7940    1.7340   -4.1860 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9700    1.1060   -3.2910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6580    1.5960   -3.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2420    2.7360   -3.8130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1260    3.2040   -3.6780 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0570    0.7380   -2.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3050    0.8880   -1.4250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3300    0.8900   -2.4780 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9750   -0.1930   -1.7580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1160    0.0240   -2.4840 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2400    3.3950   -5.7670 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+A    1
+N1
+A    2
+C2
+A    3
+N3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+O6
+A    8
+C7
+A    9
+C10
+A   10
+N11
+A   11
+C8
+A   12
+N9
+A   13
+N2
+M  END
+>  <InstanceId>
+2L1V_PRF_A_37
+
+>  <ChemCompId>
+PRF
+
+>  <PdbId>
+2L1V
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+37
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C7 N5 O
+
+>  <Name>
+7-DEAZA-7-AMINOMETHYL-GUANINE
+
+>  <SystematicName>
+2-amino-5-(aminomethyl)-3,7-dihydropyrrolo[3,2-e]pyrimidin-4-one
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C7 H9 N5 O
+
+>  <MolecularWeight>
+179.179
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C7H9N5O/c8-1-3-2-10-5-4(3)6(13)12-7(9)11-5/h2H,1,8H2,(H4,9,10,11,12,13)
+
+>  <InChIKey>
+MEYMBLGOKYDGLZ-UHFFFAOYSA-N
+
+>  <SMILES>
+c1c(c2c([nH]1)N=C(NC2=O)N)CN
+
+$$$$

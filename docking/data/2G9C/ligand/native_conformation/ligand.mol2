@@ -1,0 +1,27 @@
+@<TRIPOS>MOLECULE
+2G9C_3AY_A_91
+ 9 9 0 0 0
+SMALL
+GASTEIGER
+****
+Coordinates from PDB:2G9C:A:91 Model:1 without hydrogens
+@<TRIPOS>ATOM
+      1 N          10.9060   13.1200    6.2110 N.pl3   1  UNL1       -0.1070
+      2 C          11.2080   12.4500    7.3170 C.ar    1  UNL1        0.1755
+      3 C          11.6280   11.1280    7.2360 C.ar    1  UNL1        0.0753
+      4 N          11.1530   13.0620    8.5110 N.ar    1  UNL1       -0.1928
+      5 C          11.5040   12.4280    9.6400 C.ar    1  UNL1        0.2591
+      6 N          11.5150   13.0870   10.7980 N.pl3   1  UNL1       -0.0860
+      7 N          11.9100   11.1500    9.5940 N.ar    1  UNL1       -0.1928
+      8 C          11.9800   10.4950    8.4240 C.ar    1  UNL1        0.1755
+      9 N          12.3940    9.2320    8.4000 N.pl3   1  UNL1       -0.1070
+@<TRIPOS>BOND
+     1     1     2    1
+     2     2     3   ar
+     3     2     4   ar
+     4     3     8   ar
+     5     4     5   ar
+     6     5     6    1
+     7     5     7   ar
+     8     7     8   ar
+     9     8     9    1

@@ -1,0 +1,767 @@
+ligand.pdb
+ OpenBabel03221815493D
+
+ 22 22  0  0  1  0  0  0  0  0999 V2000
+   70.0280  126.7890  105.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.7500  126.5990  106.4030 O   0  0  0  0  0  0  0  0  0  0  0  0
+   70.9180  125.6880  105.6740 N   0  0  0  0  0  0  0  0  0  0  0  0
+   72.1800  125.8470  105.0700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   73.0740  124.7340  104.9580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   72.5610  127.1110  104.5820 N   0  0  0  0  0  0  0  0  0  0  0  0
+   71.6860  128.2240  104.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.1530  129.5930  104.1290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.4070  128.0720  105.2950 C   0  0  1  0  0  0  0  0  0  0  0  0
+   69.4310  129.2740  105.4170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.3770  129.2130  104.2910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.4210  130.4120  104.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   66.2150  130.0030  105.0630 O   0  0  0  0  0  0  0  0  0  0  0  0
+   67.7150  131.7930  103.9200 N   0  0  0  0  0  0  0  0  0  0  0  0
+   67.4730  131.9270  102.4480 C   0  0  2  0  0  0  0  0  0  0  0  0
+   67.8240  133.3640  102.0080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.6850  133.3160  100.8660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   65.9820  131.6540  102.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   64.8890  132.6500  103.1410 S   0  0  0  0  0  0  0  0  0  0  0  0
+   63.1630  132.3240  102.7130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   62.2890  133.8970  102.5320 S   0  0  0  0  0  0  0  0  0  0  0  0
+   60.5590  133.5810  102.1040 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+>  <HEADER>
+    RIBOSOME                                02-JAN-03   1NJN              
+
+>  <TITLE>
+    THE CRYSTAL STRUCTURE OF THE 50S LARGE RIBOSOMAL SUBUNIT              
+   2 FROM DEINOCOCCUS RADIODURANS COMPLEXED WITH THE ANTIBIOTIC           
+   3 SPARSOMYCIN                                                          
+
+>  <COMPND>
+    MOL_ID: 1;                                                            
+   2 MOLECULE: 23S RIBOSOMAL RNA;                                         
+   3 CHAIN: 0                                                             
+
+>  <SOURCE>
+    MOL_ID: 1;                                                            
+   2 ORGANISM_SCIENTIFIC: DEINOCOCCUS RADIODURANS;                        
+   3 ORGANISM_TAXID: 1299                                                 
+
+>  <KEYWDS>
+    RIBOSOMES, TRNA, PUROMYCIN, SPARSOMYCIN, PEPTIDYL-                    
+   2 TRANSFERASE, PEPTIDE BOND FORMATION                                  
+
+>  <EXPDTA>
+    X-RAY DIFFRACTION                                                     
+
+>  <AUTHOR>
+    A.BASHAN,I.AGMON,R.ZARIVATCH,F.SCHLUENZEN,J.M.HARMS,                  
+   2 R.BERISIO,H.BARTELS,H.A.HANSEN,A.YONATH                              
+
+>  <REVDAT>
+   2   24-FEB-09 1NJN    1       VERSN                                    
+   1   11-FEB-03 1NJN    0                                                
+
+>  <JRNL>
+      AUTH   A.BASHAN,I.AGMON,R.ZARIVATCH,F.SCHLUENZEN,                   
+      AUTH 2 J.M.HARMS,R.BERISIO,H.BARTELS,F.FRANCESCHI,                  
+      AUTH 3 T.AUERBACH,H.A.HANSEN,E.KOSSOY,M.KESSLER,A.YONATH            
+      TITL   STRUCTURAL BASIS OF THE RIBOSOMAL MACHINERY FOR              
+      TITL 2 PEPTIDE BOND FORMATION, TRANSLOCATION, AND NASCENT           
+      TITL 3 CHAIN PROGRESSION                                            
+      REF    MOL.CELL                      V.  11    91 2003              
+      REFN                   ISSN 1097-2765                               
+      PMID   12535524                                                     
+      DOI    10.1016/S1097-2765(03)00009-1                                
+
+>  <REMARK>
+   1                                                                      
+   2                                                                      
+   2 RESOLUTION.    3.70 ANGSTROMS.                                       
+   3                                                                      
+   3 REFINEMENT.                                                          
+   3   PROGRAM     : CNS                                                  
+   3   AUTHORS     : BRUNGER,ADAMS,CLORE,DELANO,GROS,GROSSE-              
+   3               : KUNSTLEVE,JIANG,KUSZEWSKI,NILGES, PANNU,             
+   3               : READ,RICE,SIMONSON,WARREN                            
+   3                                                                      
+   3  REFINEMENT TARGET : ENGH & HUBER                                    
+   3                                                                      
+   3  DATA USED IN REFINEMENT.                                            
+   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 3.70                           
+   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 15.00                          
+   3   DATA CUTOFF            (SIGMA(F)) : 0.000                          
+   3   DATA CUTOFF HIGH         (ABS(F)) : NULL                           
+   3   DATA CUTOFF LOW          (ABS(F)) : NULL                           
+   3   COMPLETENESS (WORKING+TEST)   (%) : NULL                           
+   3   NUMBER OF REFLECTIONS             : 198749                         
+   3                                                                      
+   3  FIT TO DATA USED IN REFINEMENT.                                     
+   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+   3   R VALUE            (WORKING SET) : 0.284                           
+   3   FREE R VALUE                     : 0.308                           
+   3   FREE R VALUE TEST SET SIZE   (%) : 5.000                           
+   3   FREE R VALUE TEST SET COUNT      : 9937                            
+   3   ESTIMATED ERROR OF FREE R VALUE  : 0.003                           
+   3                                                                      
+   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+   3   TOTAL NUMBER OF BINS USED           : NULL                         
+   3   BIN RESOLUTION RANGE HIGH       (A) : NULL                         
+   3   BIN RESOLUTION RANGE LOW        (A) : NULL                         
+   3   BIN COMPLETENESS (WORKING+TEST) (%) : NULL                         
+   3   REFLECTIONS IN BIN    (WORKING SET) : NULL                         
+   3   BIN R VALUE           (WORKING SET) : NULL                         
+   3   BIN FREE R VALUE                    : NULL                         
+   3   BIN FREE R VALUE TEST SET SIZE  (%) : NULL                         
+   3   BIN FREE R VALUE TEST SET COUNT     : NULL                         
+   3   ESTIMATED ERROR OF BIN FREE R VALUE : NULL                         
+   3                                                                      
+   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+   3   PROTEIN ATOMS            : 0                                       
+   3   NUCLEIC ACID ATOMS       : 59359                                   
+   3   HETEROGEN ATOMS          : 22                                      
+   3   SOLVENT ATOMS            : 0                                       
+   3                                                                      
+   3  B VALUES.                                                           
+   3   FROM WILSON PLOT           (A**2) : NULL                           
+   3   MEAN B VALUE      (OVERALL, A**2) : NULL                           
+   3   OVERALL ANISOTROPIC B VALUE.                                       
+   3    B11 (A**2) : NULL                                                 
+   3    B22 (A**2) : NULL                                                 
+   3    B33 (A**2) : NULL                                                 
+   3    B12 (A**2) : NULL                                                 
+   3    B13 (A**2) : NULL                                                 
+   3    B23 (A**2) : NULL                                                 
+   3                                                                      
+   3  ESTIMATED COORDINATE ERROR.                                         
+   3   ESD FROM LUZZATI PLOT        (A) : NULL                            
+   3   ESD FROM SIGMAA              (A) : NULL                            
+   3   LOW RESOLUTION CUTOFF        (A) : NULL                            
+   3                                                                      
+   3  CROSS-VALIDATED ESTIMATED COORDINATE ERROR.                         
+   3   ESD FROM C-V LUZZATI PLOT    (A) : NULL                            
+   3   ESD FROM C-V SIGMAA          (A) : NULL                            
+   3                                                                      
+   3  RMS DEVIATIONS FROM IDEAL VALUES.                                   
+   3   BOND LENGTHS                 (A) : 0.009                           
+   3   BOND ANGLES            (DEGREES) : 1.03                            
+   3   DIHEDRAL ANGLES        (DEGREES) : NULL                            
+   3   IMPROPER ANGLES        (DEGREES) : NULL                            
+   3                                                                      
+   3  ISOTROPIC THERMAL MODEL : NULL                                      
+   3                                                                      
+   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.    RMS    SIGMA                
+   3   MAIN-CHAIN BOND              (A**2) : NULL  ; NULL                 
+   3   MAIN-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+   3   SIDE-CHAIN BOND              (A**2) : NULL  ; NULL                 
+   3   SIDE-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+   3                                                                      
+   3  BULK SOLVENT MODELING.                                              
+   3   METHOD USED : NULL                                                 
+   3   KSOL        : NULL                                                 
+   3   BSOL        : NULL                                                 
+   3                                                                      
+   3  NCS MODEL : NULL                                                    
+   3                                                                      
+   3  NCS RESTRAINTS.                         RMS   SIGMA/WEIGHT          
+   3   GROUP  1  POSITIONAL            (A) : NULL  ; NULL                 
+   3   GROUP  1  B-FACTOR           (A**2) : NULL  ; NULL                 
+   3                                                                      
+   3  PARAMETER FILE  1  : NULL                                           
+   3  TOPOLOGY FILE  1   : NULL                                           
+   3                                                                      
+   3  OTHER REFINEMENT REMARKS: NULL                                      
+   4                                                                      
+   4 1NJN COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+ 100                                                                      
+ 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 13-JAN-03.                  
+ 100 THE RCSB ID CODE IS RCSB017926.                                      
+ 200                                                                      
+ 200 EXPERIMENTAL DETAILS                                                 
+ 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+ 200  DATE OF DATA COLLECTION        : 01-SEP-01                          
+ 200  TEMPERATURE           (KELVIN) : 90                                 
+ 200  PH                             : 7.80                               
+ 200  NUMBER OF CRYSTALS USED        : 1                                  
+ 200                                                                      
+ 200  SYNCHROTRON              (Y/N) : Y                                  
+ 200  RADIATION SOURCE               : ESRF                               
+ 200  BEAMLINE                       : ID14-4                             
+ 200  X-RAY GENERATOR MODEL          : NULL                               
+ 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+ 200  WAVELENGTH OR RANGE        (A) : 0.9331                             
+ 200  MONOCHROMATOR                  : NULL                               
+ 200  OPTICS                         : NULL                               
+ 200                                                                      
+ 200  DETECTOR TYPE                  : CCD                                
+ 200  DETECTOR MANUFACTURER          : ADSC QUANTUM 4                     
+ 200  INTENSITY-INTEGRATION SOFTWARE : DENZO                              
+ 200  DATA SCALING SOFTWARE          : SCALEPACK                          
+ 200                                                                      
+ 200  NUMBER OF UNIQUE REFLECTIONS   : 206787                             
+ 200  RESOLUTION RANGE HIGH      (A) : 3.700                              
+ 200  RESOLUTION RANGE LOW       (A) : 40.000                             
+ 200  REJECTION CRITERIA  (SIGMA(I)) : -3.000                             
+ 200                                                                      
+ 200 OVERALL.                                                             
+ 200  COMPLETENESS FOR RANGE     (%) : 81.1                               
+ 200  DATA REDUNDANCY                : NULL                               
+ 200  R MERGE                    (I) : NULL                               
+ 200  R SYM                      (I) : 0.12600                            
+ 200  <I/SIGMA(I)> FOR THE DATA SET  : 5.1000                             
+ 200                                                                      
+ 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+ 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 3.70                     
+ 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 3.76                     
+ 200  COMPLETENESS FOR SHELL     (%) : 80.0                               
+ 200  DATA REDUNDANCY IN SHELL       : NULL                               
+ 200  R MERGE FOR SHELL          (I) : NULL                               
+ 200  R SYM FOR SHELL            (I) : 0.37000                            
+ 200  <I/SIGMA(I)> FOR SHELL         : 1.700                              
+ 200                                                                      
+ 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+ 200 METHOD USED TO DETERMINE THE STRUCTURE: DIFFERENCE FOURIER MAPS      
+ 200 SOFTWARE USED: CCP4, O                                               
+ 200 STARTING MODEL: PDB ENTRY 1NKW                                       
+ 200                                                                      
+ 200 REMARK: NULL                                                         
+ 280                                                                      
+ 280 CRYSTAL                                                              
+ 280 SOLVENT CONTENT, VS   (%): 64.00                                     
+ 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.00                     
+ 280                                                                      
+ 280 CRYSTALLIZATION CONDITIONS: ETHANOL, DIMETHYLHEXANEDIOL, MGCL2,      
+ 280  KCL, HEPES, NH4CL, SPARSOMYCIN, PH 7.80                             
+ 290                                                                      
+ 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+ 290 SYMMETRY OPERATORS FOR SPACE GROUP: I 2 2 2                          
+ 290                                                                      
+ 290      SYMOP   SYMMETRY                                                
+ 290     NNNMMM   OPERATOR                                                
+ 290       1555   X,Y,Z                                                   
+ 290       2555   -X,-Y,Z                                                 
+ 290       3555   -X,Y,-Z                                                 
+ 290       4555   X,-Y,-Z                                                 
+ 290       5555   X+1/2,Y+1/2,Z+1/2                                       
+ 290       6555   -X+1/2,-Y+1/2,Z+1/2                                     
+ 290       7555   -X+1/2,Y+1/2,-Z+1/2                                     
+ 290       8555   X+1/2,-Y+1/2,-Z+1/2                                     
+ 290                                                                      
+ 290     WHERE NNN -> OPERATOR NUMBER                                     
+ 290           MMM -> TRANSLATION VECTOR                                  
+ 290                                                                      
+ 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+ 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+ 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+ 290 RELATED MOLECULES.                                                   
+ 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+ 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+ 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+ 290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000            
+ 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+ 290   SMTRY3   2  0.000000  0.000000  1.000000        0.00000            
+ 290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000            
+ 290   SMTRY2   3  0.000000  1.000000  0.000000        0.00000            
+ 290   SMTRY3   3  0.000000  0.000000 -1.000000        0.00000            
+ 290   SMTRY1   4  1.000000  0.000000  0.000000        0.00000            
+ 290   SMTRY2   4  0.000000 -1.000000  0.000000        0.00000            
+ 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+ 290   SMTRY1   5  1.000000  0.000000  0.000000       84.55000            
+ 290   SMTRY2   5  0.000000  1.000000  0.000000      204.95000            
+ 290   SMTRY3   5  0.000000  0.000000  1.000000      348.15000            
+ 290   SMTRY1   6 -1.000000  0.000000  0.000000       84.55000            
+ 290   SMTRY2   6  0.000000 -1.000000  0.000000      204.95000            
+ 290   SMTRY3   6  0.000000  0.000000  1.000000      348.15000            
+ 290   SMTRY1   7 -1.000000  0.000000  0.000000       84.55000            
+ 290   SMTRY2   7  0.000000  1.000000  0.000000      204.95000            
+ 290   SMTRY3   7  0.000000  0.000000 -1.000000      348.15000            
+ 290   SMTRY1   8  1.000000  0.000000  0.000000       84.55000            
+ 290   SMTRY2   8  0.000000 -1.000000  0.000000      204.95000            
+ 290   SMTRY3   8  0.000000  0.000000 -1.000000      348.15000            
+ 290                                                                      
+ 290 REMARK: NULL                                                         
+ 300                                                                      
+ 300 BIOMOLECULE: 1                                                       
+ 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+ 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+ 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+ 300 BURIED SURFACE AREA.                                                 
+ 350                                                                      
+ 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+ 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+ 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+ 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+ 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+ 350                                                                      
+ 350 BIOMOLECULE: 1                                                       
+ 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+ 350 APPLY THE FOLLOWING TO CHAINS: 0                                     
+ 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+ 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+ 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+ 465                                                                      
+ 465 MISSING RESIDUES                                                     
+ 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+ 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+ 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+ 465                                                                      
+ 465   M RES C SSSEQI                                                     
+ 465       A 0   249                                                      
+ 465       C 0   250                                                      
+ 465       C 0   251                                                      
+ 465       G 0   252                                                      
+ 465       A 0   253                                                      
+ 465       A 0   254                                                      
+ 465       A 0   255                                                      
+ 465       C 0   256                                                      
+ 465       G 0   257                                                      
+ 465       C 0   258                                                      
+ 465       U 0   259                                                      
+ 465       U 0   260                                                      
+ 465       G 0   261                                                      
+ 465       C 0   262                                                      
+ 465       G 0   263                                                      
+ 465       U 0   264                                                      
+ 465       U 0   265                                                      
+ 465       U 0   266                                                      
+ 465       C 0   267                                                      
+ 465       G 0   268                                                      
+ 465       G 0   269                                                      
+ 465       G 0   270                                                      
+ 465       G 0   271                                                      
+ 465       U 0   272                                                      
+ 465       U 0   273                                                      
+ 465       G 0   274                                                      
+ 465       U 0   275                                                      
+ 465       A 0   276                                                      
+ 465       G 0   277                                                      
+ 465       G 0   278                                                      
+ 465       A 0   279                                                      
+ 465       C 0   280                                                      
+ 465       C 0   281                                                      
+ 465       A 0   282                                                      
+ 465       G 0   283                                                      
+ 465       U 0   284                                                      
+ 465       U 0   285                                                      
+ 465       U 0   286                                                      
+ 465       U 0   287                                                      
+ 465       U 0   288                                                      
+ 465       A 0   289                                                      
+ 465       A 0   290                                                      
+ 465       G 0   291                                                      
+ 465       C 0   374                                                      
+ 465       U 0   375                                                      
+ 465       G 0   376                                                      
+ 465       G 0   377                                                      
+ 465       C 0   378                                                      
+ 465       A 0   379                                                      
+ 465       C 0   380                                                      
+ 465       C 0   381                                                      
+ 465       U 0   382                                                      
+ 465       G 0   383                                                      
+ 465       A 0   384                                                      
+ 465       G 0   385                                                      
+ 465       U 0   386                                                      
+ 465       G 0   892                                                      
+ 465       G 0   893                                                      
+ 465       G 0   894                                                      
+ 465       G 0   895                                                      
+ 465       G 0   896                                                      
+ 465       C 0   897                                                      
+ 465       C 0   898                                                      
+ 465       U 0   899                                                      
+ 465       A 0   900                                                      
+ 465       C 0   901                                                      
+ 465       C 0   902                                                      
+ 465       A 0   903                                                      
+ 465       G 0   904                                                      
+ 465       C 0   905                                                      
+ 465       U 0   906                                                      
+ 465       U 0   907                                                      
+ 465       A 0   908                                                      
+ 465       C 0   909                                                      
+ 465       C 0   910                                                      
+ 465       G 0  2098                                                      
+ 465       G 0  2099                                                      
+ 465       A 0  2100                                                      
+ 465       U 0  2101                                                      
+ 465       A 0  2102                                                      
+ 465       C 0  2111                                                      
+ 465       C 0  2112                                                      
+ 465       U 0  2113                                                      
+ 465       G 0  2114                                                      
+ 465       C 0  2115                                                      
+ 465       G 0  2116                                                      
+ 465       U 0  2126                                                      
+ 465       U 0  2127                                                      
+ 465       U 0  2128                                                      
+ 465       U 0  2129                                                      
+ 465       G 0  2130                                                      
+ 465       G 0  2131                                                      
+ 465       A 0  2141                                                      
+ 465       G 0  2142                                                      
+ 465       G 0  2143                                                      
+ 465       C 0  2144                                                      
+ 465       A 0  2145                                                      
+ 465       A 0  2146                                                      
+ 465       C 0  2147                                                      
+ 465       G 0  2148                                                      
+ 465       G 0  2149                                                      
+ 465       U 0  2150                                                      
+ 465       G 0  2151                                                      
+ 465       A 0  2152                                                      
+ 465       A 0  2153                                                      
+ 465       A 0  2154                                                      
+ 465       U 0  2155                                                      
+ 465       A 0  2156                                                      
+ 465       U 0  2775                                                      
+ 465       U 0  2776                                                      
+ 465       A 0  2777                                                      
+ 465       C 0  2878                                                      
+ 465       U 0  2879                                                      
+ 465       C 0  2880                                                      
+ 500                                                                      
+ 500 GEOMETRY AND STEREOCHEMISTRY                                         
+ 500 SUBTOPIC: CLOSE CONTACTS IN SAME ASYMMETRIC UNIT                     
+ 500                                                                      
+ 500 THE FOLLOWING ATOMS ARE IN CLOSE CONTACT.                            
+ 500                                                                      
+ 500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI           DISTANCE          
+ 500   O2'  U   0  1938     OP1  U   0  1939              2.12            
+ 500   O2'  G   0   843     OP1  G   0   844              2.15            
+ 500   O2'  A   0  2404     OP2  A   0  2405              2.15            
+ 500   O2'  G   0  2015     OP1  A   0  2016              2.15            
+ 500   O2'  A   0  1634     OP1  G   0  1635              2.16            
+ 500   O2'  G   0   192     OP2  A   0   193              2.18            
+ 500   O2'  A   0  1354     OP1  A   0  1355              2.18            
+ 500   O2'  G   0  2426     OP2  A   0  2427              2.18            
+ 500   O2'  A   0   173     OP1  A   0   174              2.19            
+ 500                                                                      
+ 500 REMARK: NULL                                                         
+ 500                                                                      
+ 500 GEOMETRY AND STEREOCHEMISTRY                                         
+ 500 SUBTOPIC: PLANAR GROUPS                                              
+ 500                                                                      
+ 500 PLANAR GROUPS IN THE FOLLOWING RESIDUES HAVE A TOTAL                 
+ 500 RMS DISTANCE OF ALL ATOMS FROM THE BEST-FIT PLANE                    
+ 500 BY MORE THAN AN EXPECTED VALUE OF 6*RMSD, WITH AN                    
+ 500 RMSD 0.02 ANGSTROMS, OR AT LEAST ONE ATOM HAS                        
+ 500 AN RMSD GREATER THAN THIS VALUE                                      
+ 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+ 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+ 500                                                                      
+ 500  M RES CSSEQI        RMS     TYPE                                    
+ 500      U 0 873         0.09    SIDE_CHAIN                              
+ 500                                                                      
+ 500 REMARK: NULL                                                         
+ 610                                                                      
+ 610 MISSING HETEROATOM                                                   
+ 610 THE FOLLOWING RESIDUES HAVE MISSING ATOMS (M=MODEL NUMBER;           
+ 610 RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;          
+ 610 I=INSERTION CODE):                                                   
+ 610   M RES C SSEQI                                                      
+ 610     SPS 0 2881                                                       
+ 800                                                                      
+ 800 SITE                                                                 
+ 800 SITE_IDENTIFIER: AC1                                                 
+ 800 EVIDENCE_CODE: SOFTWARE                                              
+ 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SPS 0 2881                
+ 900                                                                      
+ 900 RELATED ENTRIES                                                      
+ 900 RELATED ID: 1NJM   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ASM/SPARSOMYCIN          
+ 900 RELATED ID: 1NJO   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ACCP                     
+ 900 RELATED ID: 1NJP   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ASM                      
+ 900 RELATED ID: 1K01   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CHLORAMPHENICOL          
+ 900 RELATED ID: 1JZX   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CLINDAMYCIN              
+ 900 RELATED ID: 1JZY   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ERYTHROMYCIN             
+ 900 RELATED ID: 1JZZ   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ROXITHROMYCIN            
+ 900 RELATED ID: 1K00   RELATED DB: PDB                                   
+ 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CLARITHROMYCIN           
+ 900 RELATED ID: 1NKW   RELATED DB: PDB                                   
+ 900 CRYSTAL STRUCTURE OF THE LARGE RIBOSOMAL SUBUNIT FROM                
+ 900 DEINOCOCCUS RADIODURANS                                              
+
+>  <DBREF>
+ 1NJN 0    1  2880  GB     6460405  AE002087      4635   1756             
+
+>  <SEQRES>
+   1 0 2880    G   G   U   C   A   A   G   A   U   A   G   U   A          
+   2 0 2880    A   G   G   G   U   C   C   A   C   G   G   U   G          
+   3 0 2880    G   A   U   G   C   C   C   U   G   G   C   G   C          
+   4 0 2880    U   G   G   A   G   C   C   G   A   U   G   A   A          
+   5 0 2880    G   G   A   C   G   C   G   A   U   U   A   C   C          
+   6 0 2880    U   G   C   G   A   A   A   A   G   C   C   C   C          
+   7 0 2880    G   A   C   G   A   G   C   U   G   G   A   G   A          
+   8 0 2880    U   A   C   G   C   U   U   U   G   A   C   U   C          
+   9 0 2880    G   G   G   G   A   U   G   U   C   C   G   A   A          
+  10 0 2880    U   G   G   G   G   A   A   A   C   C   C   A   C          
+  11 0 2880    C   U   C   G   U   A   A   G   A   G   G   U   A          
+  12 0 2880    U   C   C   G   C   A   A   G   G   A   U   G   G          
+  13 0 2880    G   A   A   C   U   C   A   G   G   G   A   A   C          
+  14 0 2880    U   G   A   A   A   C   A   U   C   U   C   A   G          
+  15 0 2880    U   A   C   C   U   G   A   A   G   G   A   G   A          
+  16 0 2880    A   G   A   A   A   G   A   G   A   A   U   U   C          
+  17 0 2880    G   A   U   U   C   C   G   U   U   A   G   U   A          
+  18 0 2880    G   C   G   G   C   G   A   G   C   G   A   A   C          
+  19 0 2880    C   C   G   G   A   U   C   A   G   C   C   C   A          
+  20 0 2880    A   A   C   C   G   A   A   A   C   G   C   U   U          
+  21 0 2880    G   C   G   U   U   U   C   G   G   G   G   U   U          
+  22 0 2880    G   U   A   G   G   A   C   C   A   G   U   U   U          
+  23 0 2880    U   U   A   A   G   A   U   U   C   A   A   C   C          
+  24 0 2880    C   C   U   C   A   A   G   C   C   G   A   A   G          
+  25 0 2880    U   G   G   C   U   G   G   A   A   A   G   C   U          
+  26 0 2880    A   C   A   C   C   U   C   A   G   A   A   G   G          
+  27 0 2880    U   G   A   G   A   G   U   C   C   U   G   U   A          
+  28 0 2880    G   G   C   G   A   A   C   G   A   G   C   G   G          
+  29 0 2880    U   U   G   A   C   U   G   U   A   C   U   G   G          
+  30 0 2880    C   A   C   C   U   G   A   G   U   A   G   G   U          
+  31 0 2880    C   G   U   U   G   U   U   C   G   U   G   A   A          
+  32 0 2880    A   C   G   A   U   G   A   C   U   G   A   A   U          
+  33 0 2880    C   C   G   C   G   C   G   G   A   C   C   A   C          
+  34 0 2880    C   G   C   G   C   A   A   G   G   C   U   A   A          
+  35 0 2880    A   U   A   C   U   C   C   C   A   G   U   G   A          
+  36 0 2880    C   C   G   A   U   A   G   C   G   C   A   U   A          
+  37 0 2880    G   U   A   C   C   G   U   G   A   G   G   G   A          
+  38 0 2880    A   A   G   G   U   G   A   A   A   A   G   A   A          
+  39 0 2880    C   C   C   C   G   G   G   A   G   G   G   G   A          
+  40 0 2880    G   U   G   A   A   A   G   A   G   A   A   C   C          
+  41 0 2880    U   G   A   A   A   C   C   G   U   G   G   A   C          
+  42 0 2880    U   U   A   C   A   A   G   C   A   G   U   C   A          
+  43 0 2880    U   G   G   C   A   C   C   U   U   A   U   G   C          
+  44 0 2880    G   U   G   U   U   A   U   G   G   C   G   U   G          
+  45 0 2880    C   C   U   A   U   U   G   A   A   G   C   A   U          
+  46 0 2880    G   A   G   C   C   G   G   C   G   A   C   U   U          
+  47 0 2880    A   G   A   C   C   U   G   A   C   G   U   G   C          
+  48 0 2880    G   A   G   C   U   U   A   A   G   U   U   G   A          
+  49 0 2880    A   A   A   A   C   G   G   A   G   G   C   G   G          
+  50 0 2880    A   G   C   G   A   A   A   G   C   G   A   G   U          
+  51 0 2880    C   C   G   A   A   U   A   G   G   G   C   G   G          
+  52 0 2880    C   A   U   U   A   G   U   A   C   G   U   C   G          
+  53 0 2880    G   G   C   U   A   G   A   C   U   C   G   A   A          
+  54 0 2880    A   C   C   A   G   G   U   G   A   G   C   U   A          
+  55 0 2880    A   G   C   A   U   G   A   C   C   A   G   G   U          
+  56 0 2880    U   G   A   A   A   C   C   C   C   C   G   U   G          
+  57 0 2880    A   C   A   G   G   G   G   G   C   G   G   A   G          
+  58 0 2880    G   A   C   C   G   A   A   C   C   G   G   U   G          
+  59 0 2880    C   C   U   G   C   U   G   A   A   A   C   A   G          
+  60 0 2880    U   C   U   C   G   G   A   U   G   A   G   U   U          
+  61 0 2880    G   U   G   U   U   U   A   G   G   A   G   U   G          
+  62 0 2880    A   A   A   A   G   C   U   A   A   C   C   G   A          
+  63 0 2880    A   C   C   U   G   G   A   G   A   U   A   G   C          
+  64 0 2880    U   A   G   U   U   C   U   C   C   C   C   G   A          
+  65 0 2880    A   A   U   G   U   A   U   U   G   A   G   G   U          
+  66 0 2880    A   C   A   G   C   C   U   C   G   G   A   U   G          
+  67 0 2880    U   U   G   A   C   C   A   U   G   U   C   C   U          
+  68 0 2880    G   U   A   G   A   G   C   A   C   U   C   A   C          
+  69 0 2880    A   A   G   G   C   U   A   G   G   G   G   G   C          
+  70 0 2880    C   U   A   C   C   A   G   C   U   U   A   C   C          
+  71 0 2880    A   A   A   C   C   U   U   A   U   G   A   A   A          
+  72 0 2880    C   U   C   C   G   A   A   G   G   G   G   C   A          
+  73 0 2880    C   G   C   G   U   U   U   A   G   U   C   C   G          
+  74 0 2880    G   G   A   G   U   G   A   G   G   C   U   G   C          
+  75 0 2880    G   A   G   A   G   C   U   A   A   C   U   U   C          
+  76 0 2880    C   G   U   A   G   C   C   G   A   G   A   G   G          
+  77 0 2880    G   A   A   A   C   A   A   C   C   C   A   G   A          
+  78 0 2880    C   C   A   U   C   A   G   C   U   A   A   G   G          
+  79 0 2880    U   C   C   C   U   A   A   A   U   G   A   U   C          
+  80 0 2880    G   C   U   C   A   G   U   G   G   U   U   A   A          
+  81 0 2880    G   G   A   U   G   U   G   U   C   G   U   C   G          
+  82 0 2880    C   A   U   A   G   A   C   A   G   C   C   A   G          
+  83 0 2880    G   A   G   G   U   U   G   G   C   U   U   A   G          
+  84 0 2880    A   A   G   C   A   G   C   C   A   C   C   C   U          
+  85 0 2880    U   C   A   A   A   G   A   G   U   G   C   G   U          
+  86 0 2880    A   A   U   A   G   C   U   C   A   C   U   G   G          
+  87 0 2880    U   C   G   A   G   U   G   A   C   G   A   U   G          
+  88 0 2880    C   G   C   C   G   A   A   A   A   U   G   A   U          
+  89 0 2880    C   G   G   G   G   C   U   C   A   A   G   U   G          
+  90 0 2880    A   U   C   U   A   C   C   G   A   A   G   C   U          
+  91 0 2880    A   U   G   G   A   U   U   C   A   A   C   U   C          
+  92 0 2880    G   C   G   A   A   G   C   G   A   G   U   U   G          
+  93 0 2880    U   C   U   G   G   U   A   G   G   G   G   A   G          
+  94 0 2880    C   G   U   U   C   A   G   U   C   C   G   C   G          
+  95 0 2880    G   A   G   A   A   G   C   C   A   U   A   C   C          
+  96 0 2880    G   G   A   A   G   G   A   G   U   G   G   U   G          
+  97 0 2880    G   A   G   C   C   G   A   C   U   G   A   A   G          
+  98 0 2880    U   G   C   G   G   A   U   G   C   C   G   G   C          
+  99 0 2880    A   U   G   A   G   U   A   A   C   G   A   U   A          
+ 100 0 2880    A   A   A   G   A   A   G   U   G   A   G   A   A          
+ 101 0 2880    U   C   U   U   C   U   U   C   G   C   C   G   U          
+ 102 0 2880    A   A   G   G   A   C   A   A   G   G   G   U   U          
+ 103 0 2880    C   C   U   G   G   G   G   A   A   G   G   G   U          
+ 104 0 2880    C   G   U   C   C   G   C   C   C   A   G   G   G          
+ 105 0 2880    A   A   A   G   U   C   G   G   G   A   C   C   U          
+ 106 0 2880    A   A   G   G   U   G   A   G   G   C   C   G   A          
+ 107 0 2880    A   C   G   G   C   G   C   A   G   C   C   G   A          
+ 108 0 2880    U   G   G   A   C   A   G   C   A   G   G   U   C          
+ 109 0 2880    A   A   G   A   U   U   C   C   U   G   C   A   C          
+ 110 0 2880    C   G   A   U   C   A   U   G   U   G   G   A   G          
+ 111 0 2880    U   G   A   U   G   G   A   G   G   G   A   C   G          
+ 112 0 2880    C   A   U   U   A   C   G   C   U   A   U   C   C          
+ 113 0 2880    A   A   U   G   C   C   A   A   G   C   U   A   U          
+ 114 0 2880    G   G   C   U   A   U   G   C   U   G   G   U   U          
+ 115 0 2880    G   G   U   A   C   G   C   U   C   A   A   G   G          
+ 116 0 2880    G   C   G   A   U   C   G   G   G   U   C   A   G          
+ 117 0 2880    A   A   A   A   U   C   U   A   C   C   G   G   U          
+ 118 0 2880    C   A   C   A   U   G   C   C   U   C   A   G   A          
+ 119 0 2880    C   G   U   A   U   C   G   G   G   A   G   C   U          
+ 120 0 2880    U   C   C   U   C   G   G   A   A   G   C   G   A          
+ 121 0 2880    A   G   U   U   G   G   A   A   A   C   G   C   G          
+ 122 0 2880    A   C   G   G   U   G   C   C   A   A   G   A   A          
+ 123 0 2880    A   A   G   C   U   U   C   U   A   A   A   C   G          
+ 124 0 2880    U   U   G   A   A   A   C   A   U   G   A   U   U          
+ 125 0 2880    G   C   C   C   G   U   A   C   C   G   C   A   A          
+ 126 0 2880    A   C   C   G   A   C   A   C   A   G   G   U   G          
+ 127 0 2880    U   C   C   G   A   G   U   G   U   C   A   A   U          
+ 128 0 2880    G   C   A   C   U   A   A   G   G   C   G   C   G          
+ 129 0 2880    C   G   A   G   A   G   A   A   C   C   C   U   C          
+ 130 0 2880    G   U   U   A   A   G   G   A   A   C   U   U   U          
+ 131 0 2880    G   C   A   A   U   C   U   C   A   C   C   C   C          
+ 132 0 2880    G   U   A   A   C   U   U   C   G   G   A   A   G          
+ 133 0 2880    A   A   G   G   G   G   U   C   C   C   C   A   C          
+ 134 0 2880    G   C   U   U   C   G   C   G   U   G   G   G   G          
+ 135 0 2880    C   G   C   A   G   U   G   A   A   U   A   G   G          
+ 136 0 2880    C   C   C   A   G   G   C   G   A   C   U   G   U          
+ 137 0 2880    U   U   A   C   C   A   A   A   A   U   C   A   C          
+ 138 0 2880    A   G   C   A   C   U   C   U   G   C   C   A   A          
+ 139 0 2880    C   A   C   G   A   A   C   A   G   U   G   G   A          
+ 140 0 2880    C   G   U   A   U   A   G   G   G   U   G   U   G          
+ 141 0 2880    A   C   G   C   C   U   G   C   C   C   G   G   U          
+ 142 0 2880    G   C   C   G   G   A   A   G   G   U   C   A   A          
+ 143 0 2880    G   U   G   G   A   G   C   G   G   U   G   C   A          
+ 144 0 2880    A   G   C   U   G   C   G   A   A   A   U   G   A          
+ 145 0 2880    A   G   C   C   C   C   G   G   U   G   A   A   C          
+ 146 0 2880    G   G   C   G   G   C   C   G   U   A   A   C   U          
+ 147 0 2880    A   U   A   A   C   G   G   U   C   C   U   A   A          
+ 148 0 2880    G   G   U   A   G   C   G   A   A   A   U   U   C          
+ 149 0 2880    C   U   U   G   U   C   G   G   G   U   A   A   G          
+ 150 0 2880    U   U   C   C   G   A   C   C   U   G   C   A   C          
+ 151 0 2880    G   A   A   A   G   G   C   G   U   A   A   C   G          
+ 152 0 2880    A   U   C   U   G   G   G   C   G   C   U   G   U          
+ 153 0 2880    C   U   C   A   A   C   G   A   G   G   G   A   C          
+ 154 0 2880    U   C   G   G   U   G   A   A   A   U   U   G   A          
+ 155 0 2880    A   U   U   G   G   C   U   G   U   A   A   A   G          
+ 156 0 2880    A   U   G   C   G   G   C   C   U   A   C   C   C          
+ 157 0 2880    G   U   A   G   C   A   G   G   A   C   G   A   A          
+ 158 0 2880    A   A   G   A   C   C   C   C   G   U   G   G   A          
+ 159 0 2880    G   C   U   U   U   A   C   U   A   U   A   G   U          
+ 160 0 2880    C   U   G   G   C   A   U   U   G   G   G   A   U          
+ 161 0 2880    U   C   G   G   G   U   U   U   C   U   C   U   G          
+ 162 0 2880    C   G   U   A   G   G   A   U   A   G   G   U   G          
+ 163 0 2880    G   G   A   G   C   C   U   G   C   G   A   A   A          
+ 164 0 2880    C   U   G   G   C   C   U   U   U   U   G   G   G          
+ 165 0 2880    G   U   C   G   G   U   G   G   A   G   G   C   A          
+ 166 0 2880    A   C   G   G   U   G   A   A   A   U   A   C   C          
+ 167 0 2880    A   C   C   C   U   G   A   G   A   A   A   C   U          
+ 168 0 2880    U   G   G   A   U   U   U   C   U   A   A   C   C          
+ 169 0 2880    U   G   A   A   A   A   A   U   C   A   C   U   U          
+ 170 0 2880    U   C   G   G   G   G   A   C   C   G   U   G   C          
+ 171 0 2880    U   U   G   G   C   G   G   G   U   A   G   U   U          
+ 172 0 2880    U   G   A   C   U   G   G   G   G   C   G   G   U          
+ 173 0 2880    C   G   C   C   U   C   C   C   A   A   A   A   U          
+ 174 0 2880    G   U   A   A   C   G   G   A   G   G   C   G   C          
+ 175 0 2880    C   C   A   A   A   G   G   U   C   A   C   C   U          
+ 176 0 2880    C   A   A   G   A   C   G   G   U   U   G   G   A          
+ 177 0 2880    A   A   U   C   G   U   C   U   G   U   A   G   A          
+ 178 0 2880    G   C   G   C   A   A   A   G   G   U   A   G   A          
+ 179 0 2880    A   G   G   U   G   G   C   U   U   G   A   C   U          
+ 180 0 2880    G   C   G   A   G   A   C   U   G   A   C   A   C          
+ 181 0 2880    G   U   C   G   A   G   C   A   G   G   G   A   G          
+ 182 0 2880    G   A   A   A   C   U   C   G   G   G   C   U   U          
+ 183 0 2880    A   G   U   G   A   A   C   C   G   G   U   G   G          
+ 184 0 2880    U   A   C   C   G   U   G   U   G   G   A   A   G          
+ 185 0 2880    G   G   C   C   A   U   C   G   A   U   C   A   A          
+ 186 0 2880    C   G   G   A   U   A   A   A   A   G   U   U   A          
+ 187 0 2880    C   C   C   C   G   G   G   G   A   U   A   A   C          
+ 188 0 2880    A   G   G   C   U   G   A   U   C   U   C   C   C          
+ 189 0 2880    C   C   G   A   G   A   G   U   C   C   A   U   A          
+ 190 0 2880    U   C   G   G   C   G   G   G   G   A   G   G   U          
+ 191 0 2880    U   U   G   G   C   A   C   C   U   C   G   A   U          
+ 192 0 2880    G   U   C   G   G   C   U   C   G   U   C   G   C          
+ 193 0 2880    A   U   C   C   U   G   G   G   G   C   U   G   A          
+ 194 0 2880    A   G   A   A   G   G   U   C   C   C   A   A   G          
+ 195 0 2880    G   G   U   U   G   G   G   C   U   G   U   U   C          
+ 196 0 2880    G   C   C   C   A   U   U   A   A   A   G   C   G          
+ 197 0 2880    G   C   A   C   G   C   G   A   G   C   U   G   G          
+ 198 0 2880    G   U   U   C   A   G   A   A   C   G   U   C   G          
+ 199 0 2880    U   G   A   G   A   C   A   G   U   U   C   G   G          
+ 200 0 2880    U   C   U   C   U   A   U   C   C   G   C   U   A          
+ 201 0 2880    C   G   G   G   C   G   C   A   G   G   A   G   A          
+ 202 0 2880    A   U   U   G   A   G   G   G   G   A   G   U   U          
+ 203 0 2880    G   C   U   C   C   U   A   G   U   A   C   G   A          
+ 204 0 2880    G   A   G   G   A   C   C   G   G   A   G   U   G          
+ 205 0 2880    A   A   C   G   G   A   C   C   G   C   U   G   G          
+ 206 0 2880    U   C   U   C   C   C   U   G   C   U   G   U   C          
+ 207 0 2880    G   U   A   C   C   A   A   C   G   G   C   A   C          
+ 208 0 2880    A   U   G   C   A   G   G   G   U   A   G   C   U          
+ 209 0 2880    A   U   G   U   C   C   G   G   A   A   C   G   G          
+ 210 0 2880    A   U   A   A   C   C   G   C   U   G   A   A   A          
+ 211 0 2880    G   C   A   U   C   U   A   A   G   C   G   G   G          
+ 212 0 2880    A   A   G   C   C   A   G   C   C   C   C   A   A          
+ 213 0 2880    G   A   U   G   A   G   U   U   C   U   C   C   C          
+ 214 0 2880    A   C   U   G   U   U   U   A   U   C   A   G   G          
+ 215 0 2880    U   A   A   G   A   C   U   C   C   C   G   G   A          
+ 216 0 2880    A   G   A   C   C   A   C   C   G   G   G   U   U          
+ 217 0 2880    A   A   G   A   G   G   C   C   A   G   G   C   G          
+ 218 0 2880    U   G   C   A   C   G   C   A   U   A   G   C   A          
+ 219 0 2880    A   U   G   U   G   U   U   C   A   G   C   G   G          
+ 220 0 2880    A   C   U   G   G   U   G   C   U   C   A   U   C          
+ 221 0 2880    A   G   U   C   G   A   G   G   U   C   U   U   G          
+ 222 0 2880    A   C   C   A   C   U   C                                  
+
+>  <HET>
+ SPS  02881      22                                                       
+
+>  <HETNAM>
+     SPS SPARSOMYCIN                                                      
+
+>  <FORMUL>
+   2  SPS    C13 H19 N3 O5 S2                                             
+
+>  <SITE>
+   1 AC1  1   A 02581                                                     
+
+>  <ORIGX1>
+      1.000000  0.000000  0.000000        0.00000                         
+
+>  <ORIGX2>
+      0.000000  1.000000  0.000000        0.00000                         
+
+>  <ORIGX3>
+      0.000000  0.000000  1.000000        0.00000                         
+
+>  <SCALE1>
+      0.005914  0.000000  0.000000        0.00000                         
+
+>  <SCALE2>
+      0.000000  0.002440  0.000000        0.00000                         
+
+>  <SCALE3>
+      0.000000  0.000000  0.001436        0.00000                         
+
+$$$$

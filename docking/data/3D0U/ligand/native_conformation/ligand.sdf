@@ -1,0 +1,390 @@
+ligand.pdb
+ OpenBabel03221814143D
+
+ 10  9  0  0  1  0  0  0  0  0999 V2000
+   23.6410   42.2320   23.3330 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6400   40.9880   22.5730 C   0  0  2  0  0  0  0  0  0  0  0  0
+   23.8090   39.7840   23.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9410   39.9580   24.7130 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7300   41.0080   21.4970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4440   41.9780   20.3570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5580   41.9880   19.3140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1700   42.7950   18.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9040   44.2460   18.3210 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8020   38.6260   23.0600 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  1  1  1  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+>  <HEADER>
+    RNA                                     02-MAY-08   3D0U              
+
+>  <TITLE>
+    CRYSTAL STRUCTURE OF LYSINE RIBOSWITCH BOUND TO LYSINE                
+
+>  <COMPND>
+    MOL_ID: 1;                                                            
+   2 MOLECULE: LYSINE RIBOSWITCH RNA;                                     
+   3 CHAIN: A;                                                            
+   4 FRAGMENT: LIGAND BINDING DOMAIN;                                     
+   5 ENGINEERED: YES                                                      
+
+>  <SOURCE>
+    MOL_ID: 1;                                                            
+   2 SYNTHETIC: YES;                                                      
+   3 OTHER_DETAILS: SEQUENCE OCCURS NATURALLY IN THERMOTOGA               
+   4 MARITIMA                                                             
+
+>  <KEYWDS>
+    RNA-LIGAND COMPLEX, RIBOSWITCH                                        
+
+>  <EXPDTA>
+    X-RAY DIFFRACTION                                                     
+
+>  <AUTHOR>
+    A.D.GARST,A.HEROUX,R.P.RAMBO,R.T.BATEY                                
+
+>  <REVDAT>
+   3   24-FEB-09 3D0U    1       VERSN                                    
+   2   14-OCT-08 3D0U    1       JRNL                                     
+   1   01-JUL-08 3D0U    0                                                
+
+>  <JRNL>
+      AUTH   A.D.GARST,A.HEROUX,R.P.RAMBO,R.T.BATEY                       
+      TITL   CRYSTAL STRUCTURE OF THE LYSINE RIBOSWITCH                   
+      TITL 2 REGULATORY MRNA ELEMENT.                                     
+      REF    J.BIOL.CHEM.                  V. 283 22347 2008              
+      REFN                   ISSN 0021-9258                               
+      PMID   18593706                                                     
+      DOI    10.1074/JBC.C800120200                                       
+
+>  <REMARK>
+   1                                                                      
+   2                                                                      
+   2 RESOLUTION.    2.80 ANGSTROMS.                                       
+   3                                                                      
+   3 REFINEMENT.                                                          
+   3   PROGRAM     : PHENIX (PHENIX.REFINE)                               
+   3   AUTHORS     : PAUL ADAMS,PAVEL AFONINE,VICENT CHEN,IAN             
+   3               : DAVIS,KRESHNA GOPAL,RALF GROSSE-                     
+   3               : KUNSTLEVE,LI-WEI HUNG,ROBERT IMMORMINO,              
+   3               : TOM IOERGER,AIRLIE MCCOY,ERIK MCKEE,NIGEL            
+   3               : MORIARTY,REETAL PAI,RANDY READ,JANE                  
+   3               : RICHARDSON,DAVID RICHARDSON,TOD ROMO,JIM             
+   3               : SACCHETTINI,NICHOLAS SAUTER,JACOB SMITH,             
+   3               : LAURENT STORONI,TOM TERWILLIGER,PETER                
+   3               : ZWART                                                
+   3                                                                      
+   3    REFINEMENT TARGET : MLHL                                          
+   3                                                                      
+   3  DATA USED IN REFINEMENT.                                            
+   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 2.80                           
+   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 32.62                          
+   3   MIN(FOBS/SIGMA_FOBS)              : 0.410                          
+   3   COMPLETENESS FOR RANGE        (%) : 97.7                           
+   3   NUMBER OF REFLECTIONS             : 22659                          
+   3                                                                      
+   3  FIT TO DATA USED IN REFINEMENT.                                     
+   3   R VALUE     (WORKING + TEST SET) : 0.184                           
+   3   R VALUE            (WORKING SET) : 0.182                           
+   3   FREE R VALUE                     : 0.209                           
+   3   FREE R VALUE TEST SET SIZE   (%) : 8.340                           
+   3   FREE R VALUE TEST SET COUNT      : 1889                            
+   3                                                                      
+   3  FIT TO DATA USED IN REFINEMENT (IN BINS).                           
+   3   BIN  RESOLUTION RANGE  COMPL.    NWORK NFREE   RWORK  RFREE        
+   3     1 32.6210 -  6.5670    0.99     1621   150  0.1290 0.1440        
+   3     2  6.5670 -  5.2200    1.00     1631   150  0.1260 0.1690        
+   3     3  5.2200 -  4.5620    1.00     1639   151  0.1370 0.1510        
+   3     4  4.5620 -  4.1460    1.00     1627   143  0.1420 0.1820        
+   3     5  4.1460 -  3.8490    0.99     1642   138  0.1620 0.1840        
+   3     6  3.8490 -  3.6220    0.99     1623   147  0.1710 0.1930        
+   3     7  3.6220 -  3.4410    0.99     1613   154  0.1840 0.1960        
+   3     8  3.4410 -  3.2920    0.99     1635   149  0.2040 0.2140        
+   3     9  3.2920 -  3.1650    0.99     1622   145  0.2180 0.2490        
+   3    10  3.1650 -  3.0560    0.99     1618   152  0.2510 0.2870        
+   3    11  3.0560 -  2.9600    0.98     1585   154  0.2630 0.2900        
+   3    12  2.9600 -  2.8760    0.93     1535   138  0.3060 0.3110        
+   3    13  2.8760 -  2.8000    0.86     1379   118  0.3190 0.3460        
+   3                                                                      
+   3  BULK SOLVENT MODELLING.                                             
+   3   METHOD USED        : FLAT BULK SOLVENT MODEL                       
+   3   SOLVENT RADIUS     : 1.11                                          
+   3   SHRINKAGE RADIUS   : 0.90                                          
+   3   K_SOL              : 0.21                                          
+   3   B_SOL              : 8.45                                          
+   3                                                                      
+   3  ERROR ESTIMATES.                                                    
+   3   COORDINATE ERROR (MAXIMUM-LIKELIHOOD BASED)     : NULL             
+   3   PHASE ERROR (DEGREES, MAXIMUM-LIKELIHOOD BASED) : NULL             
+   3                                                                      
+   3  B VALUES.                                                           
+   3   FROM WILSON PLOT           (A**2) : NULL                           
+   3   MEAN B VALUE      (OVERALL, A**2) : 54.61                          
+   3   OVERALL ANISOTROPIC B VALUE.                                       
+   3    B11 (A**2) : -7.92030                                             
+   3    B22 (A**2) : -7.92030                                             
+   3    B33 (A**2) : 15.84070                                             
+   3    B12 (A**2) : -0.00000                                             
+   3    B13 (A**2) : 0.00000                                              
+   3    B23 (A**2) : -0.00000                                             
+   3                                                                      
+   3  TWINNING INFORMATION.                                               
+   3   FRACTION: NULL                                                     
+   3   OPERATOR: NULL                                                     
+   3                                                                      
+   3  DEVIATIONS FROM IDEAL VALUES.                                       
+   3                 RMSD          COUNT                                  
+   3   BOND      :  0.005           3909                                  
+   3   ANGLE     :  1.087           6106                                  
+   3   CHIRALITY :  0.070            802                                  
+   3   PLANARITY :  0.002            161                                  
+   3   DIHEDRAL  : 20.480           1616                                  
+   3                                                                      
+   3  TLS DETAILS                                                         
+   3   NUMBER OF TLS GROUPS  : NULL                                       
+   3                                                                      
+   3  NCS DETAILS                                                         
+   3   NUMBER OF NCS GROUPS : NULL                                        
+   3                                                                      
+   3  OTHER REFINEMENT REMARKS: NULL                                      
+   4                                                                      
+   4 3D0U COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+ 100                                                                      
+ 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 04-JUN-08.                  
+ 100 THE RCSB ID CODE IS RCSB047449.                                      
+ 200                                                                      
+ 200 EXPERIMENTAL DETAILS                                                 
+ 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+ 200  DATE OF DATA COLLECTION        : 28-JAN-08                          
+ 200  TEMPERATURE           (KELVIN) : 100                                
+ 200  PH                             : 7.0                                
+ 200  NUMBER OF CRYSTALS USED        : 1                                  
+ 200                                                                      
+ 200  SYNCHROTRON              (Y/N) : Y                                  
+ 200  RADIATION SOURCE               : NSLS                               
+ 200  BEAMLINE                       : X29A                               
+ 200  X-RAY GENERATOR MODEL          : NULL                               
+ 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+ 200  WAVELENGTH OR RANGE        (A) : 1.1050                             
+ 200  MONOCHROMATOR                  : SI 111 CHANNEL                     
+ 200  OPTICS                         : NULL                               
+ 200                                                                      
+ 200  DETECTOR TYPE                  : CCD                                
+ 200  DETECTOR MANUFACTURER          : ADSC QUANTUM 315                   
+ 200  INTENSITY-INTEGRATION SOFTWARE : HKL                                
+ 200  DATA SCALING SOFTWARE          : HKL                                
+ 200                                                                      
+ 200  NUMBER OF UNIQUE REFLECTIONS   : 24657                              
+ 200  RESOLUTION RANGE HIGH      (A) : 2.700                              
+ 200  RESOLUTION RANGE LOW       (A) : 40.000                             
+ 200  REJECTION CRITERIA  (SIGMA(I)) : NULL                               
+ 200                                                                      
+ 200 OVERALL.                                                             
+ 200  COMPLETENESS FOR RANGE     (%) : 95.6                               
+ 200  DATA REDUNDANCY                : 5.000                              
+ 200  R MERGE                    (I) : 0.08400                            
+ 200  R SYM                      (I) : NULL                               
+ 200  <I/SIGMA(I)> FOR THE DATA SET  : 13.5000                            
+ 200                                                                      
+ 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+ 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 2.70                     
+ 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.80                     
+ 200  COMPLETENESS FOR SHELL     (%) : 61.4                               
+ 200  DATA REDUNDANCY IN SHELL       : 2.20                               
+ 200  R MERGE FOR SHELL          (I) : 0.40300                            
+ 200  R SYM FOR SHELL            (I) : NULL                               
+ 200  <I/SIGMA(I)> FOR SHELL         : NULL                               
+ 200                                                                      
+ 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+ 200 METHOD USED TO DETERMINE THE STRUCTURE: SAD                          
+ 200 SOFTWARE USED: SHELXD                                                
+ 200 STARTING MODEL: NULL                                                 
+ 200                                                                      
+ 200 REMARK: NULL                                                         
+ 280                                                                      
+ 280 CRYSTAL                                                              
+ 280 SOLVENT CONTENT, VS   (%): 73.50                                     
+ 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.64                     
+ 280                                                                      
+ 280 CRYSTALLIZATION CONDITIONS: 2 M LI2SO4, 5 MM MGCL2, PH 7.0,          
+ 280  VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 303K                     
+ 290                                                                      
+ 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+ 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 32                             
+ 290                                                                      
+ 290      SYMOP   SYMMETRY                                                
+ 290     NNNMMM   OPERATOR                                                
+ 290       1555   X,Y,Z                                                   
+ 290       2555   -Y,X-Y,Z+2/3                                            
+ 290       3555   -X+Y,-X,Z+1/3                                           
+ 290                                                                      
+ 290     WHERE NNN -> OPERATOR NUMBER                                     
+ 290           MMM -> TRANSLATION VECTOR                                  
+ 290                                                                      
+ 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+ 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+ 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+ 290 RELATED MOLECULES.                                                   
+ 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+ 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+ 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+ 290   SMTRY1   2 -0.500000 -0.866025  0.000000        0.00000            
+ 290   SMTRY2   2  0.866025 -0.500000  0.000000        0.00000            
+ 290   SMTRY3   2  0.000000  0.000000  1.000000       39.16267            
+ 290   SMTRY1   3 -0.500000  0.866025  0.000000        0.00000            
+ 290   SMTRY2   3 -0.866025 -0.500000  0.000000        0.00000            
+ 290   SMTRY3   3  0.000000  0.000000  1.000000       19.58133            
+ 290                                                                      
+ 290 REMARK: NULL                                                         
+ 300                                                                      
+ 300 BIOMOLECULE: 1                                                       
+ 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+ 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+ 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+ 300 BURIED SURFACE AREA.                                                 
+ 350                                                                      
+ 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+ 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+ 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+ 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+ 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+ 350                                                                      
+ 350 BIOMOLECULE: 1                                                       
+ 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+ 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: MONOMERIC                  
+ 350 SOFTWARE USED: PISA                                                  
+ 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+ 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+ 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+ 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+ 500                                                                      
+ 500 GEOMETRY AND STEREOCHEMISTRY                                         
+ 500 SUBTOPIC: COVALENT BOND LENGTHS                                      
+ 500                                                                      
+ 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+ 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+ 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+ 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+ 500                                                                      
+ 500 STANDARD TABLE:                                                      
+ 500 FORMAT: (10X,I3,1X,2(A3,1X,A1,I4,A1,1X,A4,3X),1X,F6.3)               
+ 500                                                                      
+ 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+ 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+ 500                                                                      
+ 500  M RES CSSEQI ATM1   RES CSSEQI ATM2   DEVIATION                     
+ 500      G A   1   P       G A   1   OP3    -0.122                       
+ 500                                                                      
+ 500 REMARK: NULL                                                         
+ 500                                                                      
+ 500 GEOMETRY AND STEREOCHEMISTRY                                         
+ 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+ 500                                                                      
+ 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+ 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+ 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+ 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+ 500                                                                      
+ 500 STANDARD TABLE:                                                      
+ 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+ 500                                                                      
+ 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+ 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+ 500                                                                      
+ 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+ 500      G A   1   OP1 -  P   -  OP2 ANGL. DEV. = -11.0 DEGREES          
+ 500      G A   9   O4' -  C1' -  N9  ANGL. DEV. =   4.7 DEGREES          
+ 500      G A  24   C3' -  C2' -  C1' ANGL. DEV. =  -4.6 DEGREES          
+ 500      C A  81   O4' -  C1' -  N1  ANGL. DEV. =   4.7 DEGREES          
+ 500      A A  83   O4' -  C1' -  N9  ANGL. DEV. =  -5.2 DEGREES          
+ 500      U A  91   C3' -  O3' -  P   ANGL. DEV. =  11.0 DEGREES          
+ 500      A A 123   C3' -  O3' -  P   ANGL. DEV. =  -7.6 DEGREES          
+ 500      G A 152   C3' -  O3' -  P   ANGL. DEV. =   7.5 DEGREES          
+ 500                                                                      
+ 500 REMARK: NULL                                                         
+ 525                                                                      
+ 525 SOLVENT                                                              
+ 525                                                                      
+ 525 THE SOLVENT MOLECULES HAVE CHAIN IDENTIFIERS THAT                    
+ 525 INDICATE THE POLYMER CHAIN WITH WHICH THEY ARE MOST                  
+ 525 CLOSELY ASSOCIATED. THE REMARK LISTS ALL THE SOLVENT                 
+ 525 MOLECULES WHICH ARE MORE THAN 5A AWAY FROM THE                       
+ 525 NEAREST POLYMER CHAIN (M = MODEL NUMBER;                             
+ 525 RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE                  
+ 525 NUMBER; I=INSERTION CODE):                                           
+ 525                                                                      
+ 525  M RES CSSEQI                                                        
+ 525    HOH A 237        DISTANCE =  5.39 ANGSTROMS                       
+ 525    HOH A 244        DISTANCE =  5.48 ANGSTROMS                       
+ 800                                                                      
+ 800 SITE                                                                 
+ 800 SITE_IDENTIFIER: AC3                                                 
+ 800 EVIDENCE_CODE: SOFTWARE                                              
+ 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE IRI A 204                 
+ 800 SITE_IDENTIFIER: AC4                                                 
+ 800 EVIDENCE_CODE: SOFTWARE                                              
+ 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE LYS A 205                 
+
+>  <DBREF>
+ 3D0U A    1   161  PDB    3D0U     3D0U             1    161             
+
+>  <SEQRES>
+   1 A  161    G   G   A   C   G   G   A   G   G   C   G   C   G          
+   2 A  161    C   C   C   G   A   G   A   U   G   A   G   U   A          
+   3 A  161    G   G   C   U   G   U   C   C   C   A   U   C   A          
+   4 A  161    G   G   G   G   A   G   G   A   A   U   C   G   G          
+   5 A  161    G   G   A   C   G   G   C   U   G   A   A   A   G          
+   6 A  161    G   C   G   A   G   G   G   C   G   C   C   G   A          
+   7 A  161    A   G   C   G   A   G   C   A   G   A   G   U   U          
+   8 A  161    C   C   U   C   C   C   G   C   U   C   U   G   C          
+   9 A  161    U   U   G   G   C   U   G   G   G   G   G   U   G          
+  10 A  161    A   G   G   G   G   A   A   U   A   C   C   C   U          
+  11 A  161    U   A   C   C   A   C   U   G   U   C   G   C   G          
+  12 A  161    A   A   A   G   C   G   G   A   G   A   G   C   C          
+  13 A  161    G   U   C   C   A                                          
+
+>  <HET>
+ IRI  A 202       7                                                       
+ IRI  A 203       7                                                       
+ IRI  A 204       7                                                       
+ LYS  A 205      10                                                       
+
+>  <HETNAM>
+     IRI IRIDIUM HEXAMMINE ION                                            
+     LYS LYSINE                                                           
+
+>  <FORMUL>
+   2  IRI    3(H18 IR N6 3+)                                              
+   5  LYS    C6 H15 N2 O2 1+                                              
+   6  HOH   *45(H2 O)                                                     
+
+>  <SITE>
+   1 AC3  1 HOH A 246                                                     
+   1 AC4  1 HOH A 213                                                     
+
+>  <ORIGX1>
+      1.000000  0.000000  0.000000        0.00000                         
+
+>  <ORIGX2>
+      0.000000  1.000000  0.000000        0.00000                         
+
+>  <ORIGX3>
+      0.000000  0.000000  1.000000        0.00000                         
+
+>  <SCALE1>
+      0.008346  0.004818  0.000000        0.00000                         
+
+>  <SCALE2>
+      0.000000  0.009637  0.000000        0.00000                         
+
+>  <SCALE3>
+      0.000000  0.000000  0.017023        0.00000                         
+
+$$$$

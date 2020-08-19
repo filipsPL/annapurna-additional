@@ -1,0 +1,131 @@
+3GAO_XAN_A_90
+ OpenBabel10091713573D
+Coordinates from PDB:3GAO:A:90 Model:1 without hydrogens
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   10.4670   12.7090    6.2060 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8970   12.2300    7.4190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8490   12.9230    8.6000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3420   12.2170    9.6910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3520   12.7320   10.8210 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8370   10.8960    9.5090 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8910   10.1740    8.2960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3430    9.0330    8.2740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3680   10.9460    7.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2320   10.6280    5.8570 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6990   11.6970    5.3240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0759   13.5921    6.0152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4966   13.8396    8.6696 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1771   10.4376   10.3111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4732   11.7678    4.3195 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 15  1  0  0  0  0
+A    1
+N9
+A    2
+C4
+A    3
+N3
+A    4
+C2
+A    5
+O2
+A    6
+N1
+A    7
+C6
+A    8
+O6
+A    9
+C5
+A   10
+N7
+A   11
+C8
+M  END
+>  <InstanceId>
+3GAO_XAN_A_90
+
+>  <ChemCompId>
+XAN
+
+>  <PdbId>
+3GAO
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+90
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C5 N4 O2
+
+>  <Name>
+XANTHINE
+
+>  <SystematicName>
+3,9-dihydropurine-2,6-dione
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C5 H4 N4 O2
+
+>  <MolecularWeight>
+152.111
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)
+
+>  <InChIKey>
+LRFVTYWOQMYALW-UHFFFAOYSA-N
+
+>  <SMILES>
+c1[nH]c2c(n1)C(=O)NC(=O)N2
+
+$$$$

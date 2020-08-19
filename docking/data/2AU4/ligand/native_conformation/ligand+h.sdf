@@ -1,0 +1,338 @@
+ligand.pdb
+ OpenBabel03221816343D
+
+ 48 50  0  0  1  0  0  0  0  0999 V2000
+   70.3910   11.4740    0.2270 P   0  0  1  0  0  0  0  0  0  0  0  0
+   71.6380   12.2590    0.3270 O   0  0  0  0  0  0  0  0  0  0  0  0
+   69.3550   11.8540   -0.7560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   70.7780    9.9330   -0.0100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   69.7110   11.4470    1.6670 O   0  0  0  0  0  0  0  0  0  0  0  0
+   68.7840   10.2090    2.0320 P   0  0  2  0  0  0  0  0  0  0  0  0
+   67.8440   10.6300    3.0890 O   0  0  0  0  0  0  0  0  0  0  0  0
+   69.6520    9.0310    2.2380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   67.9610    9.9880    0.6940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   66.6470    9.1010    0.7770 P   0  0  2  0  0  0  0  0  0  0  0  0
+   65.4980   10.0090    0.9670 O   0  0  0  0  0  0  0  0  0  0  0  0
+   66.8980    8.0110    1.7440 O   0  0  0  0  0  0  0  0  0  0  0  0
+   66.5620    8.4680   -0.7000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   66.9420    7.1030   -0.9410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.5340    6.9000   -2.3280 C   0  0  1  0  0  0  0  0  0  0  0  0
+   68.9650    7.0780   -2.3000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   67.2380    5.4990   -2.8400 C   0  0  1  0  0  0  0  0  0  0  0  0
+   66.4080    5.5450   -4.0070 O   0  0  0  0  0  0  0  0  0  0  0  0
+   68.5730    4.8640   -3.1480 C   0  0  1  0  0  0  0  0  0  0  0  0
+   68.6550    4.4690   -4.5240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   69.6280    5.9070   -2.8220 C   0  0  2  0  0  0  0  0  0  0  0  0
+   70.6040    5.3770   -1.8500 N   0  0  0  0  0  0  0  0  0  0  0  0
+   71.8410    4.8630   -2.0630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.5090    4.4570   -1.0330 N   0  0  0  0  0  0  0  0  0  0  0  0
+   71.6120    4.7310    0.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.7480    4.5200    1.3990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   72.7060    4.0630    2.0080 O   0  0  0  0  0  0  0  0  0  0  0  0
+   70.6230    4.9330    2.0900 N   0  0  0  0  0  0  0  0  0  0  0  0
+   69.5000    5.4840    1.5200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.5240    5.8220    2.3520 N   0  0  0  0  0  0  0  0  0  0  0  0
+   69.3570    5.6890    0.2130 N   0  0  0  0  0  0  0  0  0  0  0  0
+   70.4450    5.2930   -0.4870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   71.4840    9.9160   -0.6580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.0650    6.4720   -0.8780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   67.6720    6.8000   -0.1760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   67.0990    7.6280   -3.0110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.7400    4.9250   -2.0560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.9390    5.2350   -4.7480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   68.7150    3.9940   -2.5050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   69.5700    4.5980   -4.8050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.1540    6.1760   -3.7370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   72.2590    4.7950   -3.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.6570    4.8200    3.0900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   68.6280    5.6680    3.3430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   67.6760    6.2330    1.9900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   69.7449   11.8777   -1.6439 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.1652    9.1461    3.0530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.9516    8.3794    2.6397 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  6  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3 46  1  0  0  0  0
+  4 33  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  1  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  8 47  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  1  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 48  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  6  0  0  0
+ 15 36  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  6  0  0  0
+ 17 37  1  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  1  0  0  0
+ 19 39  1  0  0  0  0
+ 20 40  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 41  1  6  0  0  0
+ 22 23  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 42  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 32  2  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 43  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 30 44  1  0  0  0  0
+ 30 45  1  0  0  0  0
+ 31 32  1  0  0  0  0
+M  END
+>  <HEADER>
+RNA                                     26-AUG-05   2AU4
+
+>  <TITLE>
+CLASS I GTP APTAMER
+
+>  <COMPND>
+MOL_ID: 1;
+2 MOLECULE: CLASS I RNA APTAMER TO GTP;
+3 CHAIN: A;
+4 ENGINEERED: YES
+
+>  <SOURCE>
+MOL_ID: 1;
+2 SYNTHETIC: YES;
+3 OTHER_DETAILS: IN VITRO SELECTION
+
+>  <KEYWDS>
+RNA, APTAMER
+
+>  <EXPDTA>
+SOLUTION NMR
+
+>  <AUTHOR>
+J.M.CAROTHERS,J.H.DAVIS,J.J.CHOU,J.W.SZOSTAK
+
+>  <REVDAT>
+3   24-FEB-09 2AU4    1       VERSN
+2   18-APR-06 2AU4    1       JRNL
+1   28-MAR-06 2AU4    0
+
+>  <JRNL>
+AUTH   J.M.CAROTHERS,J.H.DAVIS,J.J.CHOU,J.W.SZOSTAK
+TITL   SOLUTION STRUCTURE OF AN INFORMATIONALLY COMPLEX
+TITL 2 HIGH-AFFINITY RNA APTAMER TO GTP.
+REF    RNA                           V.  12   567 2006
+REFN                   ISSN 1355-8382
+PMID   16510427
+DOI    10.1261/RNA.2251306
+
+>  <REMARK>
+1
+2
+2 RESOLUTION. NOT APPLICABLE.
+3
+3 REFINEMENT.
+3   PROGRAM     : XPLOR-NIH 2.9.2
+3   AUTHORS     : CLORE, TJANDRA, SCHWIETERS, KUSZEWSKI
+3
+3  OTHER REFINEMENT REMARKS: STRUCTURES ARE BASED ON A TOTAL OF
+3  434 RESTRAINTS
+4
+4 2AU4 COMPLIES WITH FORMAT V. 3.15, 01-DEC-08
+100
+100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 29-AUG-05.
+100 THE RCSB ID CODE IS RCSB034313.
+210
+210 EXPERIMENTAL DETAILS
+210  EXPERIMENT TYPE                : NMR
+210  TEMPERATURE           (KELVIN) : 288; 303; 298; 303
+210  PH                             : 6.1; 6.1; 6.1; 6.8
+210  IONIC STRENGTH                 : 5 MM MGCL2, 75 MM KCL; 5 MM
+210                                   MGCL2, 75 MM KCL; 5 MM MGCL2,
+210                                   75 MM KCL; 5 MM MGCL2, 75 MM
+210                                   KCL
+210  PRESSURE                       : AMBIENT; AMBIENT; AMBIENT;
+210                                   AMBIENT
+210  SAMPLE CONTENTS                : 3.3 MM CLASS I APTAMER U-15N,
+210                                   13C, 3.63 MM GTP LIGAND NA, 10
+210                                   % PHOSPHATE BUFFER NA, 99%
+210                                   D2O; 0.9 MM CLASS I APTAMER
+210                                   NA, 0.99 NM GTP LIGAND U-15N,
+210                                   13C, 10 % PHOSPATE BUFFER NA,
+210                                   99% D2O; 3.3 MM CLASS I
+210                                   APTAMER U-15N, 13C; 3.63 MM
+210                                   GTP LIGAND NA; 10 % PHOSPHATE
+210                                   BUFFER NA, 95% H2O, 5% D2O;
+210                                   0.9 MM CLASS I APTAMER NA;
+210                                   0.99 NM GTP LIGAND U-15N, 13C;
+210                                   10 % PHOSPATE BUFFER NA, 95%
+210                                   H2O, 5% D2O; 0.8 MM CLASS I
+210                                   RNA APTAMER U-15N,13C, 0.9 MM
+210                                   GTP NA, 10% PHOSPHATE BUFFER
+210                                   NA, 95% H2O, 5% D2O; 0.5 MM
+210                                   CLASS I RNA APTAMER U-15N,13C,
+210                                   0.55 MM GTP NA, 18 ML/MG PF1
+210                                   PHAGE NA, 10% PHOSPHATE BUFFER
+210                                   NA, 95% H2O, 5% D2O
+210
+210  NMR EXPERIMENTS CONDUCTED      : 3D_13C-SEPARATED_NOESY, 3D_
+210                                   15N-SEPARATED_NOESY, 2D NOESY,
+210                                   DQF-COSY, 2D 1H DECOUPLED 13C-
+210                                   1H CT HSQC, 2D 13C-1H CT-TROSY
+210  SPECTROMETER FIELD STRENGTH    : 750 MHZ, 500 MHZ, 400 MHZ
+210  SPECTROMETER MODEL             : INOVA, UNITY, AVANCE
+210  SPECTROMETER MANUFACTURER      : VARIAN, BRUKER
+210
+210  STRUCTURE DETERMINATION.
+210   SOFTWARE USED                 : NMRPIPE 2.3, XPLOR-NIH 2.9.2,
+210                                   SPARKY 3
+210   METHOD USED                   : RESTRAINED MOLECULAR DYNAMICS
+210
+210 CONFORMERS, NUMBER CALCULATED   : NULL
+210 CONFORMERS, NUMBER SUBMITTED    : 1
+210 CONFORMERS, SELECTION CRITERIA  : NULL
+210
+210 BEST REPRESENTATIVE CONFORMER IN THIS ENSEMBLE : 1
+210
+210 REMARK: NULL
+215
+215 NMR STUDY
+215 THE COORDINATES IN THIS ENTRY WERE GENERATED FROM SOLUTION
+215 NMR DATA.  PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+215 CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES ON
+215 THESE RECORDS ARE MEANINGLESS.
+500
+500 GEOMETRY AND STEREOCHEMISTRY
+500 SUBTOPIC: COVALENT BOND ANGLES
+500
+500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES
+500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE
+500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN
+500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).
+500
+500 STANDARD TABLE:
+500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)
+500
+500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999
+500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996
+500
+500  M RES CSSEQI ATM1   ATM2   ATM3
+500      G A   1   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES
+500      G A   1   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A   1   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES
+500      G A   2   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A   2   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      G A   3   N7  -  C8  -  N9  ANGL. DEV. =   4.4 DEGREES
+500      G A   3   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      A A   4   N7  -  C8  -  N9  ANGL. DEV. =   3.8 DEGREES
+500      G A   6   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A   6   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      A A   7   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES
+500      A A   7   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES
+500      A A   8   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES
+500      G A   9   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A   9   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES
+500      U A  10   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  11   N7  -  C8  -  N9  ANGL. DEV. =   4.4 DEGREES
+500      G A  11   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES
+500      G A  12   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  12   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  12   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES
+500      U A  14   C3' -  C2' -  C1' ANGL. DEV. =   5.0 DEGREES
+500      G A  15   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  15   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES
+500      G A  16   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A  16   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      G A  17   C3' -  C2' -  C1' ANGL. DEV. =   4.8 DEGREES
+500      G A  17   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  17   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      G A  19   N7  -  C8  -  N9  ANGL. DEV. =   4.7 DEGREES
+500      G A  19   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      U A  22   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  24   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  24   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A  24   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES
+500      G A  25   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  25   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES
+500      G A  27   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  27   C8  -  N9  -  C4  ANGL. DEV. =  -2.5 DEGREES
+500      U A  28   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  29   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  29   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES
+500      G A  29   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES
+500      U A  30   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  31   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      G A  31   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES
+500      G A  31   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES
+500      A A  32   C3' -  C2' -  C1' ANGL. DEV. =   4.9 DEGREES
+500      A A  32   N7  -  C8  -  N9  ANGL. DEV. =   3.7 DEGREES
+500      A A  33   N7  -  C8  -  N9  ANGL. DEV. =   3.6 DEGREES
+500
+500 THIS ENTRY HAS      58 ANGLE DEVIATIONS.
+500
+500 REMARK: NULL
+800
+800 SITE
+800 SITE_IDENTIFIER: AC1
+800 EVIDENCE_CODE: SOFTWARE
+800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE GTP A 42
+
+>  <DBREF>
+2AU4 A    1    41  PDB    2AU4     2AU4             1     41
+
+>  <SEQRES>
+1 A   41    G   G   G   A   C   G   A   A   G   U   G   G   U
+2 A   41    U   G   G   G   C   G   C   U   U   C   G   G   C
+3 A   41    G   U   G   U   G   A   A   A   A   C   G   U   C
+4 A   41    C   C
+
+>  <HET>
+GTP  A  42      45
+
+>  <HETNAM>
+GTP GUANOSINE-5'-TRIPHOSPHATE
+
+>  <FORMUL>
+2  GTP    C10 H16 N5 O14 P3
+
+>  <SITE>
+1 AC1  7   A A   8    G A   9    G A  11    G A  15
+2 AC1  7   G A  16    G A  31    A A  32
+
+>  <ORIGX1>
+1.000000  0.000000  0.000000        0.00000
+
+>  <ORIGX2>
+0.000000  1.000000  0.000000        0.00000
+
+>  <ORIGX3>
+0.000000  0.000000  1.000000        0.00000
+
+>  <SCALE1>
+1.000000  0.000000  0.000000        0.00000
+
+>  <SCALE2>
+0.000000  1.000000  0.000000        0.00000
+
+>  <SCALE3>
+0.000000  0.000000  1.000000        0.00000
+
+>  <MDLTYP>
+MINIMIZED AVERAGE
+
+$$$$

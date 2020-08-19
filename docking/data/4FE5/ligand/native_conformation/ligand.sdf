@@ -1,0 +1,119 @@
+4FE5_HPA_B_101
+ OpenBabel10091713573D
+Coordinates from PDB:4FE5:B:101 Model:1 without hydrogens
+ 10 11  0  0  0  0  0  0  0  0999 V2000
+   12.1410   10.7120    9.0650 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7000   12.0040    9.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2260   12.7260    8.2130 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2290   12.0570    7.0250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6580   10.7650    6.7930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1630    9.9890    7.8720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5920    8.8290    7.8920 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4900   10.4850    5.4660 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9620   11.5940    4.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7890   12.5870    5.8380 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+A    1
+N1
+A    2
+C2
+A    3
+N3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+O6
+A    8
+N7
+A    9
+C8
+A   10
+N9
+M  END
+>  <InstanceId>
+4FE5_HPA_B_101
+
+>  <ChemCompId>
+HPA
+
+>  <PdbId>
+4FE5
+
+>  <ChainId>
+B
+
+>  <ResidueNumber>
+101
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C5 N4 O
+
+>  <Name>
+HYPOXANTHINE
+
+>  <SystematicName>
+1,7-dihydropurin-6-one
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C5 H4 N4 O
+
+>  <MolecularWeight>
+136.111
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)
+
+>  <InChIKey>
+FDGQSTZJBFJUBT-UHFFFAOYSA-N
+
+>  <SMILES>
+c1[nH]c2c(n1)N=CNC2=O
+
+$$$$

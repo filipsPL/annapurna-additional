@@ -1,0 +1,123 @@
+3GOT_A2F_A_91
+ OpenBabel10091713573D
+Coordinates from PDB:3GOT:A:91 Model:1 without hydrogens
+ 11 12  0  0  0  0  0  0  0  0999 V2000
+  -11.6610  -11.7890   10.6260 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6470  -11.1400    9.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2180  -11.7950    8.3560 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0600   -9.8650    9.3750 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0540   -9.2120    8.2030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3920   -7.9270    8.1480 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6260   -9.8720    7.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1990  -11.1880    7.1630 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.5020   -9.5210    5.7800 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0130  -10.5610    5.1090 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8260  -11.5790    5.9480 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  2  0  0  0  0
+  5  4  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  3  2  0  0  0  0
+  9  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11  8  1  0  0  0  0
+A    1
+F
+A    2
+C2
+A    3
+N3
+A    4
+N1
+A    5
+C6
+A    6
+N6
+A    7
+C5
+A    8
+C4
+A    9
+N7
+A   10
+C8
+A   11
+N9
+M  END
+>  <InstanceId>
+3GOT_A2F_A_91
+
+>  <ChemCompId>
+A2F
+
+>  <PdbId>
+3GOT
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+91
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C5 N5 F
+
+>  <Name>
+2-fluoroadenine
+
+>  <SystematicName>
+2-fluoro-7H-purin-6-amine
+
+>  <Synonyms>
+2-fluoro-7H-purin-6-amine
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C5 H4 F N5
+
+>  <MolecularWeight>
+153.117
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C5H4FN5/c6-5-10-3(7)2-4(11-5)9-1-8-2/h1H,(H3,7,8,9,10,11)
+
+>  <InChIKey>
+WKMPTBDYDNUJLF-UHFFFAOYSA-N
+
+>  <SMILES>
+c1[nH]c2c(nc(nc2n1)F)N
+
+$$$$

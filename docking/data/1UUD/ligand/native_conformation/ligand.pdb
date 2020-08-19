@@ -1,0 +1,289 @@
+HEADER    HIV-1                                   18-DEC-03   1UUD              
+TITLE     NMR STRUCTURE OF A SYNTHETIC SMALL MOLECULE, RBT203, BOUND            
+TITLE    2 TO HIV-1 TAR RNA                                                     
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: RNA (5'-(*GP*GP*CP*AP*GP*AP*UP*CP*UP*GP*AP*GP              
+COMPND   3  *CP*CP*UP*GP*GP*GP*AP*GP*CP*UP*CP*UP*CP*UP*GP*CP*C) -3');           
+COMPND   4 CHAIN: B;                                                            
+COMPND   5 SYNONYM: HIV-1 TAR RNA;                                              
+COMPND   6 OTHER_DETAILS: BULGED STEM LOOP REGION FROM 5'LTR OF HIV-1           
+COMPND   7  MRNA-BINDING SITE FOR TRANSCRIPTIONAL ACTIVATOR PROTEIN             
+COMPND   8  TAT.                                                                
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 ORGANISM_SCIENTIFIC: HUMAN IMMUNODEFICIENCY VIRUS 1 (CLONE           
+SOURCE   4  12);                                                                
+SOURCE   5 ORGANISM_COMMON: HIV-1;                                              
+SOURCE   6 ORGANISM_TAXID: 11706;                                               
+SOURCE   7 OTHER_DETAILS: 29 NUCLEOTIDE SEQUENCE COMPRISING PRIMARY             
+SOURCE   8  BINDING SITE OF HIV-1 TAT, SYNTHESIZED USING T7 RNA                 
+SOURCE   9  POLYMERASE OFF OF A DNA TEMPLATE                                    
+KEYWDS    HIV-1, TAR RNA, DRUG DESIGN, LIGAND-RNA INTERACTION, RNA              
+KEYWDS   2 BULGE                                                                
+EXPDTA    SOLUTION NMR                                                          
+AUTHOR    B.DAVIS,M.AFSHAR,G.VARANI,J.KARN,A.I.H.MURCHIE,G.LENTZEN,             
+AUTHOR   2 M.J.DRYSDALE,A.J.POTTER,J.BOWER,F.ABOUL-ELA                          
+REVDAT   2   24-FEB-09 1UUD    1       VERSN                                    
+REVDAT   1   15-MAR-04 1UUD    0                                                
+JRNL        AUTH   B.DAVIS,M.AFSHAR,G.VARANI,A.I.H.MURCHIE,J.KARN,              
+JRNL        AUTH 2 G.LENTZEN,M.J.DRYSDALE,J.BOWER,A.J.POTTER,                   
+JRNL        AUTH 3 F.ABOUL-ELA                                                  
+JRNL        TITL   RATIONAL DESIGN OF INHIBITORS OF HIV-1 TAR RNA               
+JRNL        TITL 2 THROUGH THE STABILISATION OF ELECTROSTATIC "HOT              
+JRNL        TITL 3 SPOTS"                                                       
+JRNL        REF    J.MOL.BIOL.                   V. 336   343 2004              
+JRNL        REFN                   ISSN 0022-2836                               
+JRNL        PMID   14757049                                                     
+JRNL        DOI    10.1016/J.JMB.2003.12.046                                    
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   F.ABOUL-ELA,J.JKARN,G.VARANI                                 
+REMARK   1  TITL   THE STRUCTURE OF THE HUMAN IMMUNODEFICIENCY VIRUS            
+REMARK   1  TITL 2 RECOGNITION BY TAT PROTEIN                                   
+REMARK   1  REF    J.MOL.BIOL.                   V. 253   313 1995              
+REMARK   1  REFN                   ISSN 0022-2836                               
+REMARK   1  PMID   7563092                                                      
+REMARK   1  DOI    10.1006/JMBI.1995.0555                                       
+REMARK   2                                                                      
+REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : X-PLOR                                               
+REMARK   3   AUTHORS     : BRUNGER                                              
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: REFINEMENT INCLUDED A NUMBER OF           
+REMARK   3  MODELLING CONSTRAINTS BASED UPON PREVIOUSLY PUBLISHED DATA, AS      
+REMARK   3  WELL AS FINAL GENTLE REFINEMENT STEP USING CHARMM. DETAILS CAN      
+REMARK   3  BE FOUND IN THE JOURNAL CITATION ABOVE                              
+REMARK   4                                                                      
+REMARK   4 1UUD COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY PDBE ON 19-DEC-03.                  
+REMARK 100 THE PDBE ID CODE IS EBI-14236.                                       
+REMARK 210                                                                      
+REMARK 210 EXPERIMENTAL DETAILS                                                 
+REMARK 210  EXPERIMENT TYPE                : NMR                                
+REMARK 210  TEMPERATURE           (KELVIN) : 298                                
+REMARK 210  PH                             : 6.1                                
+REMARK 210  IONIC STRENGTH                 : 20 MM                              
+REMARK 210  PRESSURE                       : 1 ATM                              
+REMARK 210  SAMPLE CONTENTS                : NULL                               
+REMARK 210                                                                      
+REMARK 210  NMR EXPERIMENTS CONDUCTED      : NOESY, TOCSY, COSY, ROESY          
+REMARK 210  SPECTROMETER FIELD STRENGTH    : 800; 600; 600; 500                 
+REMARK 210  SPECTROMETER MODEL             : DRX800; DRX600; DMX600;            
+REMARK 210                                   AMX500                             
+REMARK 210  SPECTROMETER MANUFACTURER      : BRUKER                             
+REMARK 210                                                                      
+REMARK 210  STRUCTURE DETERMINATION.                                            
+REMARK 210   SOFTWARE USED                 : XPLOR/CHARMM                       
+REMARK 210   METHOD USED                   : NOE-RESTRAINED DYNAMICS            
+REMARK 210                                                                      
+REMARK 210 CONFORMERS, NUMBER CALCULATED   : 50                                 
+REMARK 210 CONFORMERS, NUMBER SUBMITTED    : 1                                  
+REMARK 210 CONFORMERS, SELECTION CRITERIA  : LEAST RESTRRAINT                   
+REMARK 210                                   VIOLATION ENERGY                   
+REMARK 210                                                                      
+REMARK 210 BEST REPRESENTATIVE CONFORMER IN THIS ENSEMBLE : 1                   
+REMARK 210                                                                      
+REMARK 210 REMARK: THE STRUCTURE WAS DETERMINED USING HOMONUCLEAR NMR           
+REMARK 210 SPECTROSCOPY, DETECTING INTERMOLECULAR NOES. RNA                     
+REMARK 210 INTRAMOLECULAR RESTRAINTS WERE AS IN ABOUL-ELA ET AL, JMB            
+REMARK 210 1995, AS THE NMR SPECTRA FOR THE RNA AS ABOUND BY THE                
+REMARK 210 LIGAND RBT203 SHOWED SIMILAR NOE AND CHEMICAL SHIFT                  
+REMARK 210 PATTERNS TO THE LATTER                                               
+REMARK 215                                                                      
+REMARK 215 NMR STUDY                                                            
+REMARK 215 THE COORDINATES IN THIS ENTRY WERE GENERATED FROM SOLUTION           
+REMARK 215 NMR DATA.  PROTEIN DATA BANK CONVENTIONS REQUIRE THAT                
+REMARK 215 CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES ON              
+REMARK 215 THESE RECORDS ARE MEANINGLESS.                                       
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+REMARK 500                                                                      
+REMARK 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+REMARK 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+REMARK 500      G B  17   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  17   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G B  18   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  18   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      A B  20   N7  -  C8  -  N9  ANGL. DEV. =   3.7 DEGREES          
+REMARK 500      G B  21   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  21   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      A B  22   N7  -  C8  -  N9  ANGL. DEV. =   3.7 DEGREES          
+REMARK 500      G B  26   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  26   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      A B  27   N7  -  C8  -  N9  ANGL. DEV. =   3.7 DEGREES          
+REMARK 500      G B  28   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G B  28   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G B  32   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G B  32   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G B  33   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  33   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      G B  34   C8  -  N9  -  C4  ANGL. DEV. =  -2.7 DEGREES          
+REMARK 500      G B  34   N7  -  C8  -  N9  ANGL. DEV. =   4.6 DEGREES          
+REMARK 500      A B  35   N7  -  C8  -  N9  ANGL. DEV. =   3.8 DEGREES          
+REMARK 500      G B  36   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G B  36   N7  -  C8  -  N9  ANGL. DEV. =   4.7 DEGREES          
+REMARK 500      G B  43   C8  -  N9  -  C4  ANGL. DEV. =  -2.6 DEGREES          
+REMARK 500      G B  43   N7  -  C8  -  N9  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE P14 B1046                 
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 1UTS   RELATED DB: PDB                                   
+REMARK 900  DESIGNED HIV-1 TAR BINDING LIGAND                                   
+REMARK 900 RELATED ID: 1UUI   RELATED DB: PDB                                   
+REMARK 900  DESIGNED HIV-1 TAR BINDING LIGAND                                   
+DBREF  1UUD B   17    45  PDB    1UUD     1UUD            17     45             
+SEQRES   1 B   29    G   G   C   A   G   A   U   C   U   G   A   G   C          
+SEQRES   2 B   29    C   U   G   G   G   A   G   C   U   C   U   C   U          
+SEQRES   3 B   29    G   C   C                                                  
+HET    P14  B1046      57                                                       
+HETNAM     P14 N-[2-(2-{[(4-{[AMINO(IMINO)METHYL]AMINO}                         
+HETNAM   2 P14  BUTYL)AMINO]METHYL}-4-METHOXYPHENOXY)ETHYL]                     
+HETNAM   3 P14  GUANIDINE                                                       
+HETSYN     P14 RBT203 INHIBITOR                                                 
+FORMUL   2  P14    C16 H31 N7 O2                                                
+SITE     1 AC1  9   A B  22    U B  23    G B  26    A B  27                    
+SITE     2 AC1  9   G B  28    A B  35    G B  36    C B  37                    
+SITE     3 AC1  9   U B  38                                                     
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+MDLTYP    MINIMIZED AVERAGE                                                     
+HETATM    1  C1  P14 B1046      -4.770  -8.982  -4.530  1.00  0.00           C
+HETATM    2  C2  P14 B1046      -5.217  -8.375  -3.321  1.00  0.00           C
+HETATM    3  C3  P14 B1046      -6.391  -7.575  -3.322  1.00  0.00           C
+HETATM    4  C4  P14 B1046      -7.106  -7.363  -4.530  1.00  0.00           C
+HETATM    5  C5  P14 B1046      -6.650  -7.952  -5.740  1.00  0.00           C
+HETATM    6  C6  P14 B1046      -5.478  -8.756  -5.743  1.00  0.00           C
+HETATM    7  OA  P14 B1046      -3.600  -9.810  -4.535  1.00  0.00           O
+HETATM    8  CB  P14 B1046      -3.890 -11.077  -3.926  1.00  0.00           C
+HETATM    9  CG  P14 B1046      -4.767 -11.924  -4.858  1.00  0.00           C
+HETATM   10  ND  P14 B1046      -4.119 -12.182  -5.969  1.00  0.00           N
+HETATM   11  CE  P14 B1046      -3.148 -13.075  -6.010  1.00  0.00           C
+HETATM   12  NZ1 P14 B1046      -2.763 -13.764  -4.893  1.00  0.00           N
+HETATM   13  NZ2 P14 B1046      -2.516 -13.314  -7.188  1.00  0.00           N
+HETATM   14  CA  P14 B1046      -4.443  -8.591  -2.004  1.00  0.00           C
+HETATM   15  NB  P14 B1046      -2.984  -8.505  -2.261  1.00  0.00           N
+HETATM   16  CG1 P14 B1046      -2.281  -8.081  -1.027  1.00  0.00           C
+HETATM   17  CD  P14 B1046      -2.302  -9.225  -0.006  1.00  0.00           C
+HETATM   18  CE1 P14 B1046      -0.894  -9.447   0.557  1.00  0.00           C
+HETATM   19  CZ  P14 B1046      -0.211 -10.585  -0.207  1.00  0.00           C
+HETATM   20  NH  P14 B1046       0.970 -10.824   0.312  1.00  0.00           N
+HETATM   21  CI  P14 B1046       1.103 -11.471   1.454  1.00  0.00           C
+HETATM   22  NJ1 P14 B1046       2.349 -11.725   1.930  1.00  0.00           N
+HETATM   23  NJ2 P14 B1046       0.017 -11.900   2.163  1.00  0.00           N
+HETATM   24  O1  P14 B1046      -8.285  -6.554  -4.529  1.00  0.00           O
+HETATM   25  C11 P14 B1046      -7.930  -5.190  -4.284  1.00  0.00           C
+HETATM   26  H3  P14 B1046      -6.739  -7.125  -2.404  1.00  0.00           H
+HETATM   27  H5  P14 B1046      -7.194  -7.789  -6.656  1.00  0.00           H
+HETATM   28  H6  P14 B1046      -5.131  -9.203  -6.666  1.00  0.00           H
+HETATM   29  HB1 P14 B1046      -2.966 -11.601  -3.732  1.00  0.00           H
+HETATM   30  HB2 P14 B1046      -4.412 -10.918  -2.995  1.00  0.00           H
+HETATM   31  HG1 P14 B1046      -5.674 -11.382  -5.088  1.00  0.00           H
+HETATM   32  HG2 P14 B1046      -5.021 -12.852  -4.367  1.00  0.00           H
+HETATM   33  HD  P14 B1046      -4.366 -11.707  -6.790  1.00  0.00           H
+HETATM   34 HZ11 P14 B1046      -3.206 -13.605  -4.034  1.00  0.00           H
+HETATM   35 HZ12 P14 B1046      -2.039 -14.422  -4.953  1.00  0.00           H
+HETATM   36 HZ21 P14 B1046      -1.793 -13.975  -7.231  1.00  0.00           H
+HETATM   37 HZ22 P14 B1046      -2.783 -12.827  -7.995  1.00  0.00           H
+HETATM   38  HA1 P14 B1046      -4.681  -9.563  -1.599  1.00  0.00           H
+HETATM   39  HA2 P14 B1046      -4.730  -7.829  -1.294  1.00  0.00           H
+HETATM   40 HB11 P14 B1046      -2.807  -7.818  -3.008  1.00  0.00           H
+HETATM   41 HG11 P14 B1046      -2.778  -7.218  -0.609  1.00  0.00           H
+HETATM   42 HG12 P14 B1046      -1.259  -7.825  -1.267  1.00  0.00           H
+HETATM   43  HD1 P14 B1046      -2.974  -8.972   0.801  1.00  0.00           H
+HETATM   44  HD2 P14 B1046      -2.645 -10.129  -0.488  1.00  0.00           H
+HETATM   45  HE1 P14 B1046      -0.316  -8.542   0.448  1.00  0.00           H
+HETATM   46  HE2 P14 B1046      -0.962  -9.707   1.604  1.00  0.00           H
+HETATM   47  HZ1 P14 B1046      -0.819 -11.476  -0.143  1.00  0.00           H
+HETATM   48  HZ2 P14 B1046      -0.097 -10.303  -1.243  1.00  0.00           H
+HETATM   49  HH  P14 B1046       1.773 -10.527  -0.166  1.00  0.00           H
+HETATM   50 HJ11 P14 B1046       2.462 -12.204   2.776  1.00  0.00           H
+HETATM   51 HJ12 P14 B1046       3.135 -11.430   1.425  1.00  0.00           H
+HETATM   52 HJ21 P14 B1046       0.146 -12.379   3.008  1.00  0.00           H
+HETATM   53 HJ22 P14 B1046      -0.890 -11.732   1.833  1.00  0.00           H
+HETATM   54  H11 P14 B1046      -8.801  -4.564  -4.406  1.00  0.00           H
+HETATM   55  H12 P14 B1046      -7.167  -4.886  -4.985  1.00  0.00           H
+HETATM   56  H13 P14 B1046      -7.554  -5.092  -3.277  1.00  0.00           H
+HETATM   57 HB12 P14 B1046      -2.632  -9.427  -2.554  1.00  0.00           H
+CONECT    1    2    6    7
+CONECT   25   24   54   55   56
+CONECT    2    1    3   14
+CONECT    3    2    4   26
+CONECT    4    3    5   24
+CONECT    5    4    6   27
+CONECT    6    1    5   28
+CONECT   14    2   15   38   39
+CONECT    8    7    9   29   30
+CONECT   17   16   18   43   44
+CONECT   11   10   12   13
+CONECT   18   17   19   45   46
+CONECT    9    8   10   31   32
+CONECT   16   15   17   41   42
+CONECT   21   20   22   23
+CONECT   19   18   20   47   48
+CONECT   54   25
+CONECT   55   25
+CONECT   56   25
+CONECT   26    3
+CONECT   27    5
+CONECT   28    6
+CONECT   38   14
+CONECT   39   14
+CONECT   29    8
+CONECT   40   15
+CONECT   57   15
+CONECT   30    8
+CONECT   33   10
+CONECT   43   17
+CONECT   44   17
+CONECT   45   18
+CONECT   46   18
+CONECT   31    9
+CONECT   41   16
+CONECT   42   16
+CONECT   32    9
+CONECT   49   20
+CONECT   50   22
+CONECT   51   22
+CONECT   52   23
+CONECT   53   23
+CONECT   47   19
+CONECT   34   12
+CONECT   35   12
+CONECT   48   19
+CONECT   36   13
+CONECT   37   13
+CONECT   15   14   16   40   57
+CONECT   10    9   11   33
+CONECT   20   19   21   49
+CONECT   22   21   50   51
+CONECT   23   21   52   53
+CONECT   12   11   34   35
+CONECT   13   11   36   37
+CONECT   24    4   25
+CONECT    7    1    8
+END

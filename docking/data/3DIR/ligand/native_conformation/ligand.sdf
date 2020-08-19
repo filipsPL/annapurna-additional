@@ -1,0 +1,129 @@
+3DIR_IEL_A_175
+ OpenBabel10091713573D
+Coordinates from PDB:3DIR:A:175 Model:1 without hydrogens
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+   34.6010   17.0580   21.9740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4190   17.2740   22.3200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1580   17.8440   23.4000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3120   16.8650   21.3900 C   0  0  1  0  0  0  0  0  0  0  0  0
+   32.8770   16.0120   20.3590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1840   16.1290   22.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3410   15.3540   21.0970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8770   15.2370   21.5060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9880   15.7740   20.3920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6140   14.6300   19.5640 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2280   14.1380   18.4930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3470   14.6490   18.0050 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6370   12.9480   17.8050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13 11  1  0  0  0  0
+A    1
+O
+A    2
+C
+A    3
+OXT
+A    4
+CA
+A    5
+N
+A    6
+CB
+A    7
+CG'
+A    8
+CG
+A    9
+CD
+A   10
+NE
+A   11
+CZ
+A   12
+NH1
+A   13
+CH2
+M  END
+>  <InstanceId>
+3DIR_IEL_A_175
+
+>  <ChemCompId>
+IEL
+
+>  <PdbId>
+3DIR
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+175
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C8 N3 O2
+
+>  <Name>
+N~6~-[(1Z)-ethanimidoyl]-L-lysine
+
+>  <SystematicName>
+(2S)-2-amino-6-(ethanimidoylamino)hexanoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+L-PEPTIDE LINKING
+
+>  <Formula>
+C8 H17 N3 O2
+
+>  <MolecularWeight>
+187.239
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+LYS
+
+>  <OneLetterCode>
+K
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C8H17N3O2/c1-6(9)11-5-3-2-4-7(10)8(12)13/h7H,2-5,10H2,1H3,(H2,9,11)(H,12,13)/t7-/m0/s1
+
+>  <InChIKey>
+ONYFNWIHJBLQKE-ZETCQYMHSA-N
+
+>  <SMILES>
+[H]/N=C(/C)\NCCCC[C@@H](C(=O)O)N
+
+$$$$

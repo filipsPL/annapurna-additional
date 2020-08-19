@@ -1,0 +1,114 @@
+2G9C_3AY_A_91
+ OpenBabel10091713573D
+Coordinates from PDB:2G9C:A:91 Model:1 without hydrogens
+  9  9  0  0  0  0  0  0  0  0999 V2000
+   10.9060   13.1200    6.2110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2080   12.4500    7.3170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6280   11.1280    7.2360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1530   13.0620    8.5110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5040   12.4280    9.6400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5150   13.0870   10.7980 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9100   11.1500    9.5940 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9800   10.4950    8.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3940    9.2320    8.4000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+A    1
+NAA
+A    2
+C6
+A    3
+C5
+A    4
+N1
+A    5
+C2
+A    6
+NAH
+A    7
+N3
+A    8
+C4
+A    9
+NAI
+M  END
+>  <InstanceId>
+2G9C_3AY_A_91
+
+>  <ChemCompId>
+3AY
+
+>  <PdbId>
+2G9C
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+91
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C4 N5
+
+>  <Name>
+PYRIMIDINE-2,4,6-TRIAMINE
+
+>  <SystematicName>
+pyrimidine-2,4,6-triamine
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C4 H7 N5
+
+>  <MolecularWeight>
+125.132
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C4H7N5/c5-2-1-3(6)9-4(7)8-2/h1H,(H6,5,6,7,8,9)
+
+>  <InChIKey>
+JTTIOYHBNXDJOD-UHFFFAOYSA-N
+
+>  <SMILES>
+c1c(nc(nc1N)N)N
+
+$$$$

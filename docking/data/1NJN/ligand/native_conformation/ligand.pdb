@@ -1,0 +1,719 @@
+HEADER    RIBOSOME                                02-JAN-03   1NJN              
+TITLE     THE CRYSTAL STRUCTURE OF THE 50S LARGE RIBOSOMAL SUBUNIT              
+TITLE    2 FROM DEINOCOCCUS RADIODURANS COMPLEXED WITH THE ANTIBIOTIC           
+TITLE    3 SPARSOMYCIN                                                          
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: 23S RIBOSOMAL RNA;                                         
+COMPND   3 CHAIN: 0                                                             
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: DEINOCOCCUS RADIODURANS;                        
+SOURCE   3 ORGANISM_TAXID: 1299                                                 
+KEYWDS    RIBOSOMES, TRNA, PUROMYCIN, SPARSOMYCIN, PEPTIDYL-                    
+KEYWDS   2 TRANSFERASE, PEPTIDE BOND FORMATION                                  
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    A.BASHAN,I.AGMON,R.ZARIVATCH,F.SCHLUENZEN,J.M.HARMS,                  
+AUTHOR   2 R.BERISIO,H.BARTELS,H.A.HANSEN,A.YONATH                              
+REVDAT   2   24-FEB-09 1NJN    1       VERSN                                    
+REVDAT   1   11-FEB-03 1NJN    0                                                
+JRNL        AUTH   A.BASHAN,I.AGMON,R.ZARIVATCH,F.SCHLUENZEN,                   
+JRNL        AUTH 2 J.M.HARMS,R.BERISIO,H.BARTELS,F.FRANCESCHI,                  
+JRNL        AUTH 3 T.AUERBACH,H.A.HANSEN,E.KOSSOY,M.KESSLER,A.YONATH            
+JRNL        TITL   STRUCTURAL BASIS OF THE RIBOSOMAL MACHINERY FOR              
+JRNL        TITL 2 PEPTIDE BOND FORMATION, TRANSLOCATION, AND NASCENT           
+JRNL        TITL 3 CHAIN PROGRESSION                                            
+JRNL        REF    MOL.CELL                      V.  11    91 2003              
+JRNL        REFN                   ISSN 1097-2765                               
+JRNL        PMID   12535524                                                     
+JRNL        DOI    10.1016/S1097-2765(03)00009-1                                
+REMARK   1                                                                      
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    3.70 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : CNS                                                  
+REMARK   3   AUTHORS     : BRUNGER,ADAMS,CLORE,DELANO,GROS,GROSSE-              
+REMARK   3               : KUNSTLEVE,JIANG,KUSZEWSKI,NILGES, PANNU,             
+REMARK   3               : READ,RICE,SIMONSON,WARREN                            
+REMARK   3                                                                      
+REMARK   3  REFINEMENT TARGET : ENGH & HUBER                                    
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 3.70                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 15.00                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : 0.000                          
+REMARK   3   DATA CUTOFF HIGH         (ABS(F)) : NULL                           
+REMARK   3   DATA CUTOFF LOW          (ABS(F)) : NULL                           
+REMARK   3   COMPLETENESS (WORKING+TEST)   (%) : NULL                           
+REMARK   3   NUMBER OF REFLECTIONS             : 198749                         
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE            (WORKING SET) : 0.284                           
+REMARK   3   FREE R VALUE                     : 0.308                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 5.000                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 9937                            
+REMARK   3   ESTIMATED ERROR OF FREE R VALUE  : 0.003                           
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : NULL                         
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : NULL                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : NULL                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : NULL                         
+REMARK   3   REFLECTIONS IN BIN    (WORKING SET) : NULL                         
+REMARK   3   BIN R VALUE           (WORKING SET) : NULL                         
+REMARK   3   BIN FREE R VALUE                    : NULL                         
+REMARK   3   BIN FREE R VALUE TEST SET SIZE  (%) : NULL                         
+REMARK   3   BIN FREE R VALUE TEST SET COUNT     : NULL                         
+REMARK   3   ESTIMATED ERROR OF BIN FREE R VALUE : NULL                         
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 0                                       
+REMARK   3   NUCLEIC ACID ATOMS       : 59359                                   
+REMARK   3   HETEROGEN ATOMS          : 22                                      
+REMARK   3   SOLVENT ATOMS            : 0                                       
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : NULL                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : NULL                           
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : NULL                                                 
+REMARK   3    B22 (A**2) : NULL                                                 
+REMARK   3    B33 (A**2) : NULL                                                 
+REMARK   3    B12 (A**2) : NULL                                                 
+REMARK   3    B13 (A**2) : NULL                                                 
+REMARK   3    B23 (A**2) : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  ESTIMATED COORDINATE ERROR.                                         
+REMARK   3   ESD FROM LUZZATI PLOT        (A) : NULL                            
+REMARK   3   ESD FROM SIGMAA              (A) : NULL                            
+REMARK   3   LOW RESOLUTION CUTOFF        (A) : NULL                            
+REMARK   3                                                                      
+REMARK   3  CROSS-VALIDATED ESTIMATED COORDINATE ERROR.                         
+REMARK   3   ESD FROM C-V LUZZATI PLOT    (A) : NULL                            
+REMARK   3   ESD FROM C-V SIGMAA          (A) : NULL                            
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES.                                   
+REMARK   3   BOND LENGTHS                 (A) : 0.009                           
+REMARK   3   BOND ANGLES            (DEGREES) : 1.03                            
+REMARK   3   DIHEDRAL ANGLES        (DEGREES) : NULL                            
+REMARK   3   IMPROPER ANGLES        (DEGREES) : NULL                            
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL MODEL : NULL                                      
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.    RMS    SIGMA                
+REMARK   3   MAIN-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   MAIN-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELING.                                              
+REMARK   3   METHOD USED : NULL                                                 
+REMARK   3   KSOL        : NULL                                                 
+REMARK   3   BSOL        : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  NCS MODEL : NULL                                                    
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS.                         RMS   SIGMA/WEIGHT          
+REMARK   3   GROUP  1  POSITIONAL            (A) : NULL  ; NULL                 
+REMARK   3   GROUP  1  B-FACTOR           (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  PARAMETER FILE  1  : NULL                                           
+REMARK   3  TOPOLOGY FILE  1   : NULL                                           
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 1NJN COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 13-JAN-03.                  
+REMARK 100 THE RCSB ID CODE IS RCSB017926.                                      
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 01-SEP-01                          
+REMARK 200  TEMPERATURE           (KELVIN) : 90                                 
+REMARK 200  PH                             : 7.80                               
+REMARK 200  NUMBER OF CRYSTALS USED        : 1                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y                                  
+REMARK 200  RADIATION SOURCE               : ESRF                               
+REMARK 200  BEAMLINE                       : ID14-4                             
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 0.9331                             
+REMARK 200  MONOCHROMATOR                  : NULL                               
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : CCD                                
+REMARK 200  DETECTOR MANUFACTURER          : ADSC QUANTUM 4                     
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : DENZO                              
+REMARK 200  DATA SCALING SOFTWARE          : SCALEPACK                          
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 206787                             
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 3.700                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 40.000                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : -3.000                             
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 81.1                               
+REMARK 200  DATA REDUNDANCY                : NULL                               
+REMARK 200  R MERGE                    (I) : NULL                               
+REMARK 200  R SYM                      (I) : 0.12600                            
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 5.1000                             
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 3.70                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 3.76                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 80.0                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : NULL                               
+REMARK 200  R MERGE FOR SHELL          (I) : NULL                               
+REMARK 200  R SYM FOR SHELL            (I) : 0.37000                            
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : 1.700                              
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: DIFFERENCE FOURIER MAPS      
+REMARK 200 SOFTWARE USED: CCP4, O                                               
+REMARK 200 STARTING MODEL: PDB ENTRY 1NKW                                       
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 64.00                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.00                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: ETHANOL, DIMETHYLHEXANEDIOL, MGCL2,      
+REMARK 280  KCL, HEPES, NH4CL, SPARSOMYCIN, PH 7.80                             
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: I 2 2 2                          
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X,-Y,Z                                                 
+REMARK 290       3555   -X,Y,-Z                                                 
+REMARK 290       4555   X,-Y,-Z                                                 
+REMARK 290       5555   X+1/2,Y+1/2,Z+1/2                                       
+REMARK 290       6555   -X+1/2,-Y+1/2,Z+1/2                                     
+REMARK 290       7555   -X+1/2,Y+1/2,-Z+1/2                                     
+REMARK 290       8555   X+1/2,-Y+1/2,-Z+1/2                                     
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   3  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   4  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   4  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   5  1.000000  0.000000  0.000000       84.55000            
+REMARK 290   SMTRY2   5  0.000000  1.000000  0.000000      204.95000            
+REMARK 290   SMTRY3   5  0.000000  0.000000  1.000000      348.15000            
+REMARK 290   SMTRY1   6 -1.000000  0.000000  0.000000       84.55000            
+REMARK 290   SMTRY2   6  0.000000 -1.000000  0.000000      204.95000            
+REMARK 290   SMTRY3   6  0.000000  0.000000  1.000000      348.15000            
+REMARK 290   SMTRY1   7 -1.000000  0.000000  0.000000       84.55000            
+REMARK 290   SMTRY2   7  0.000000  1.000000  0.000000      204.95000            
+REMARK 290   SMTRY3   7  0.000000  0.000000 -1.000000      348.15000            
+REMARK 290   SMTRY1   8  1.000000  0.000000  0.000000       84.55000            
+REMARK 290   SMTRY2   8  0.000000 -1.000000  0.000000      204.95000            
+REMARK 290   SMTRY3   8  0.000000  0.000000 -1.000000      348.15000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: 0                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 465                                                                      
+REMARK 465 MISSING RESIDUES                                                     
+REMARK 465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE                       
+REMARK 465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)                
+REMARK 465                                                                      
+REMARK 465   M RES C SSSEQI                                                     
+REMARK 465       A 0   249                                                      
+REMARK 465       C 0   250                                                      
+REMARK 465       C 0   251                                                      
+REMARK 465       G 0   252                                                      
+REMARK 465       A 0   253                                                      
+REMARK 465       A 0   254                                                      
+REMARK 465       A 0   255                                                      
+REMARK 465       C 0   256                                                      
+REMARK 465       G 0   257                                                      
+REMARK 465       C 0   258                                                      
+REMARK 465       U 0   259                                                      
+REMARK 465       U 0   260                                                      
+REMARK 465       G 0   261                                                      
+REMARK 465       C 0   262                                                      
+REMARK 465       G 0   263                                                      
+REMARK 465       U 0   264                                                      
+REMARK 465       U 0   265                                                      
+REMARK 465       U 0   266                                                      
+REMARK 465       C 0   267                                                      
+REMARK 465       G 0   268                                                      
+REMARK 465       G 0   269                                                      
+REMARK 465       G 0   270                                                      
+REMARK 465       G 0   271                                                      
+REMARK 465       U 0   272                                                      
+REMARK 465       U 0   273                                                      
+REMARK 465       G 0   274                                                      
+REMARK 465       U 0   275                                                      
+REMARK 465       A 0   276                                                      
+REMARK 465       G 0   277                                                      
+REMARK 465       G 0   278                                                      
+REMARK 465       A 0   279                                                      
+REMARK 465       C 0   280                                                      
+REMARK 465       C 0   281                                                      
+REMARK 465       A 0   282                                                      
+REMARK 465       G 0   283                                                      
+REMARK 465       U 0   284                                                      
+REMARK 465       U 0   285                                                      
+REMARK 465       U 0   286                                                      
+REMARK 465       U 0   287                                                      
+REMARK 465       U 0   288                                                      
+REMARK 465       A 0   289                                                      
+REMARK 465       A 0   290                                                      
+REMARK 465       G 0   291                                                      
+REMARK 465       C 0   374                                                      
+REMARK 465       U 0   375                                                      
+REMARK 465       G 0   376                                                      
+REMARK 465       G 0   377                                                      
+REMARK 465       C 0   378                                                      
+REMARK 465       A 0   379                                                      
+REMARK 465       C 0   380                                                      
+REMARK 465       C 0   381                                                      
+REMARK 465       U 0   382                                                      
+REMARK 465       G 0   383                                                      
+REMARK 465       A 0   384                                                      
+REMARK 465       G 0   385                                                      
+REMARK 465       U 0   386                                                      
+REMARK 465       G 0   892                                                      
+REMARK 465       G 0   893                                                      
+REMARK 465       G 0   894                                                      
+REMARK 465       G 0   895                                                      
+REMARK 465       G 0   896                                                      
+REMARK 465       C 0   897                                                      
+REMARK 465       C 0   898                                                      
+REMARK 465       U 0   899                                                      
+REMARK 465       A 0   900                                                      
+REMARK 465       C 0   901                                                      
+REMARK 465       C 0   902                                                      
+REMARK 465       A 0   903                                                      
+REMARK 465       G 0   904                                                      
+REMARK 465       C 0   905                                                      
+REMARK 465       U 0   906                                                      
+REMARK 465       U 0   907                                                      
+REMARK 465       A 0   908                                                      
+REMARK 465       C 0   909                                                      
+REMARK 465       C 0   910                                                      
+REMARK 465       G 0  2098                                                      
+REMARK 465       G 0  2099                                                      
+REMARK 465       A 0  2100                                                      
+REMARK 465       U 0  2101                                                      
+REMARK 465       A 0  2102                                                      
+REMARK 465       C 0  2111                                                      
+REMARK 465       C 0  2112                                                      
+REMARK 465       U 0  2113                                                      
+REMARK 465       G 0  2114                                                      
+REMARK 465       C 0  2115                                                      
+REMARK 465       G 0  2116                                                      
+REMARK 465       U 0  2126                                                      
+REMARK 465       U 0  2127                                                      
+REMARK 465       U 0  2128                                                      
+REMARK 465       U 0  2129                                                      
+REMARK 465       G 0  2130                                                      
+REMARK 465       G 0  2131                                                      
+REMARK 465       A 0  2141                                                      
+REMARK 465       G 0  2142                                                      
+REMARK 465       G 0  2143                                                      
+REMARK 465       C 0  2144                                                      
+REMARK 465       A 0  2145                                                      
+REMARK 465       A 0  2146                                                      
+REMARK 465       C 0  2147                                                      
+REMARK 465       G 0  2148                                                      
+REMARK 465       G 0  2149                                                      
+REMARK 465       U 0  2150                                                      
+REMARK 465       G 0  2151                                                      
+REMARK 465       A 0  2152                                                      
+REMARK 465       A 0  2153                                                      
+REMARK 465       A 0  2154                                                      
+REMARK 465       U 0  2155                                                      
+REMARK 465       A 0  2156                                                      
+REMARK 465       U 0  2775                                                      
+REMARK 465       U 0  2776                                                      
+REMARK 465       A 0  2777                                                      
+REMARK 465       C 0  2878                                                      
+REMARK 465       U 0  2879                                                      
+REMARK 465       C 0  2880                                                      
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: CLOSE CONTACTS IN SAME ASYMMETRIC UNIT                     
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING ATOMS ARE IN CLOSE CONTACT.                            
+REMARK 500                                                                      
+REMARK 500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI           DISTANCE          
+REMARK 500   O2'  U   0  1938     OP1  U   0  1939              2.12            
+REMARK 500   O2'  G   0   843     OP1  G   0   844              2.15            
+REMARK 500   O2'  A   0  2404     OP2  A   0  2405              2.15            
+REMARK 500   O2'  G   0  2015     OP1  A   0  2016              2.15            
+REMARK 500   O2'  A   0  1634     OP1  G   0  1635              2.16            
+REMARK 500   O2'  G   0   192     OP2  A   0   193              2.18            
+REMARK 500   O2'  A   0  1354     OP1  A   0  1355              2.18            
+REMARK 500   O2'  G   0  2426     OP2  A   0  2427              2.18            
+REMARK 500   O2'  A   0   173     OP1  A   0   174              2.19            
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: PLANAR GROUPS                                              
+REMARK 500                                                                      
+REMARK 500 PLANAR GROUPS IN THE FOLLOWING RESIDUES HAVE A TOTAL                 
+REMARK 500 RMS DISTANCE OF ALL ATOMS FROM THE BEST-FIT PLANE                    
+REMARK 500 BY MORE THAN AN EXPECTED VALUE OF 6*RMSD, WITH AN                    
+REMARK 500 RMSD 0.02 ANGSTROMS, OR AT LEAST ONE ATOM HAS                        
+REMARK 500 AN RMSD GREATER THAN THIS VALUE                                      
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        RMS     TYPE                                    
+REMARK 500      U 0 873         0.09    SIDE_CHAIN                              
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 610                                                                      
+REMARK 610 MISSING HETEROATOM                                                   
+REMARK 610 THE FOLLOWING RESIDUES HAVE MISSING ATOMS (M=MODEL NUMBER;           
+REMARK 610 RES=RESIDUE NAME; C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;          
+REMARK 610 I=INSERTION CODE):                                                   
+REMARK 610   M RES C SSEQI                                                      
+REMARK 610     SPS 0 2881                                                       
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SPS 0 2881                
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 1NJM   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ASM/SPARSOMYCIN          
+REMARK 900 RELATED ID: 1NJO   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ACCP                     
+REMARK 900 RELATED ID: 1NJP   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ASM                      
+REMARK 900 RELATED ID: 1K01   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CHLORAMPHENICOL          
+REMARK 900 RELATED ID: 1JZX   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CLINDAMYCIN              
+REMARK 900 RELATED ID: 1JZY   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ERYTHROMYCIN             
+REMARK 900 RELATED ID: 1JZZ   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH ROXITHROMYCIN            
+REMARK 900 RELATED ID: 1K00   RELATED DB: PDB                                   
+REMARK 900 COMPLEX OF DEINOCOCCUS RADIODURANS 50S WITH CLARITHROMYCIN           
+REMARK 900 RELATED ID: 1NKW   RELATED DB: PDB                                   
+REMARK 900 CRYSTAL STRUCTURE OF THE LARGE RIBOSOMAL SUBUNIT FROM                
+REMARK 900 DEINOCOCCUS RADIODURANS                                              
+DBREF  1NJN 0    1  2880  GB     6460405  AE002087      4635   1756             
+SEQRES   1 0 2880    G   G   U   C   A   A   G   A   U   A   G   U   A          
+SEQRES   2 0 2880    A   G   G   G   U   C   C   A   C   G   G   U   G          
+SEQRES   3 0 2880    G   A   U   G   C   C   C   U   G   G   C   G   C          
+SEQRES   4 0 2880    U   G   G   A   G   C   C   G   A   U   G   A   A          
+SEQRES   5 0 2880    G   G   A   C   G   C   G   A   U   U   A   C   C          
+SEQRES   6 0 2880    U   G   C   G   A   A   A   A   G   C   C   C   C          
+SEQRES   7 0 2880    G   A   C   G   A   G   C   U   G   G   A   G   A          
+SEQRES   8 0 2880    U   A   C   G   C   U   U   U   G   A   C   U   C          
+SEQRES   9 0 2880    G   G   G   G   A   U   G   U   C   C   G   A   A          
+SEQRES  10 0 2880    U   G   G   G   G   A   A   A   C   C   C   A   C          
+SEQRES  11 0 2880    C   U   C   G   U   A   A   G   A   G   G   U   A          
+SEQRES  12 0 2880    U   C   C   G   C   A   A   G   G   A   U   G   G          
+SEQRES  13 0 2880    G   A   A   C   U   C   A   G   G   G   A   A   C          
+SEQRES  14 0 2880    U   G   A   A   A   C   A   U   C   U   C   A   G          
+SEQRES  15 0 2880    U   A   C   C   U   G   A   A   G   G   A   G   A          
+SEQRES  16 0 2880    A   G   A   A   A   G   A   G   A   A   U   U   C          
+SEQRES  17 0 2880    G   A   U   U   C   C   G   U   U   A   G   U   A          
+SEQRES  18 0 2880    G   C   G   G   C   G   A   G   C   G   A   A   C          
+SEQRES  19 0 2880    C   C   G   G   A   U   C   A   G   C   C   C   A          
+SEQRES  20 0 2880    A   A   C   C   G   A   A   A   C   G   C   U   U          
+SEQRES  21 0 2880    G   C   G   U   U   U   C   G   G   G   G   U   U          
+SEQRES  22 0 2880    G   U   A   G   G   A   C   C   A   G   U   U   U          
+SEQRES  23 0 2880    U   U   A   A   G   A   U   U   C   A   A   C   C          
+SEQRES  24 0 2880    C   C   U   C   A   A   G   C   C   G   A   A   G          
+SEQRES  25 0 2880    U   G   G   C   U   G   G   A   A   A   G   C   U          
+SEQRES  26 0 2880    A   C   A   C   C   U   C   A   G   A   A   G   G          
+SEQRES  27 0 2880    U   G   A   G   A   G   U   C   C   U   G   U   A          
+SEQRES  28 0 2880    G   G   C   G   A   A   C   G   A   G   C   G   G          
+SEQRES  29 0 2880    U   U   G   A   C   U   G   U   A   C   U   G   G          
+SEQRES  30 0 2880    C   A   C   C   U   G   A   G   U   A   G   G   U          
+SEQRES  31 0 2880    C   G   U   U   G   U   U   C   G   U   G   A   A          
+SEQRES  32 0 2880    A   C   G   A   U   G   A   C   U   G   A   A   U          
+SEQRES  33 0 2880    C   C   G   C   G   C   G   G   A   C   C   A   C          
+SEQRES  34 0 2880    C   G   C   G   C   A   A   G   G   C   U   A   A          
+SEQRES  35 0 2880    A   U   A   C   U   C   C   C   A   G   U   G   A          
+SEQRES  36 0 2880    C   C   G   A   U   A   G   C   G   C   A   U   A          
+SEQRES  37 0 2880    G   U   A   C   C   G   U   G   A   G   G   G   A          
+SEQRES  38 0 2880    A   A   G   G   U   G   A   A   A   A   G   A   A          
+SEQRES  39 0 2880    C   C   C   C   G   G   G   A   G   G   G   G   A          
+SEQRES  40 0 2880    G   U   G   A   A   A   G   A   G   A   A   C   C          
+SEQRES  41 0 2880    U   G   A   A   A   C   C   G   U   G   G   A   C          
+SEQRES  42 0 2880    U   U   A   C   A   A   G   C   A   G   U   C   A          
+SEQRES  43 0 2880    U   G   G   C   A   C   C   U   U   A   U   G   C          
+SEQRES  44 0 2880    G   U   G   U   U   A   U   G   G   C   G   U   G          
+SEQRES  45 0 2880    C   C   U   A   U   U   G   A   A   G   C   A   U          
+SEQRES  46 0 2880    G   A   G   C   C   G   G   C   G   A   C   U   U          
+SEQRES  47 0 2880    A   G   A   C   C   U   G   A   C   G   U   G   C          
+SEQRES  48 0 2880    G   A   G   C   U   U   A   A   G   U   U   G   A          
+SEQRES  49 0 2880    A   A   A   A   C   G   G   A   G   G   C   G   G          
+SEQRES  50 0 2880    A   G   C   G   A   A   A   G   C   G   A   G   U          
+SEQRES  51 0 2880    C   C   G   A   A   U   A   G   G   G   C   G   G          
+SEQRES  52 0 2880    C   A   U   U   A   G   U   A   C   G   U   C   G          
+SEQRES  53 0 2880    G   G   C   U   A   G   A   C   U   C   G   A   A          
+SEQRES  54 0 2880    A   C   C   A   G   G   U   G   A   G   C   U   A          
+SEQRES  55 0 2880    A   G   C   A   U   G   A   C   C   A   G   G   U          
+SEQRES  56 0 2880    U   G   A   A   A   C   C   C   C   C   G   U   G          
+SEQRES  57 0 2880    A   C   A   G   G   G   G   G   C   G   G   A   G          
+SEQRES  58 0 2880    G   A   C   C   G   A   A   C   C   G   G   U   G          
+SEQRES  59 0 2880    C   C   U   G   C   U   G   A   A   A   C   A   G          
+SEQRES  60 0 2880    U   C   U   C   G   G   A   U   G   A   G   U   U          
+SEQRES  61 0 2880    G   U   G   U   U   U   A   G   G   A   G   U   G          
+SEQRES  62 0 2880    A   A   A   A   G   C   U   A   A   C   C   G   A          
+SEQRES  63 0 2880    A   C   C   U   G   G   A   G   A   U   A   G   C          
+SEQRES  64 0 2880    U   A   G   U   U   C   U   C   C   C   C   G   A          
+SEQRES  65 0 2880    A   A   U   G   U   A   U   U   G   A   G   G   U          
+SEQRES  66 0 2880    A   C   A   G   C   C   U   C   G   G   A   U   G          
+SEQRES  67 0 2880    U   U   G   A   C   C   A   U   G   U   C   C   U          
+SEQRES  68 0 2880    G   U   A   G   A   G   C   A   C   U   C   A   C          
+SEQRES  69 0 2880    A   A   G   G   C   U   A   G   G   G   G   G   C          
+SEQRES  70 0 2880    C   U   A   C   C   A   G   C   U   U   A   C   C          
+SEQRES  71 0 2880    A   A   A   C   C   U   U   A   U   G   A   A   A          
+SEQRES  72 0 2880    C   U   C   C   G   A   A   G   G   G   G   C   A          
+SEQRES  73 0 2880    C   G   C   G   U   U   U   A   G   U   C   C   G          
+SEQRES  74 0 2880    G   G   A   G   U   G   A   G   G   C   U   G   C          
+SEQRES  75 0 2880    G   A   G   A   G   C   U   A   A   C   U   U   C          
+SEQRES  76 0 2880    C   G   U   A   G   C   C   G   A   G   A   G   G          
+SEQRES  77 0 2880    G   A   A   A   C   A   A   C   C   C   A   G   A          
+SEQRES  78 0 2880    C   C   A   U   C   A   G   C   U   A   A   G   G          
+SEQRES  79 0 2880    U   C   C   C   U   A   A   A   U   G   A   U   C          
+SEQRES  80 0 2880    G   C   U   C   A   G   U   G   G   U   U   A   A          
+SEQRES  81 0 2880    G   G   A   U   G   U   G   U   C   G   U   C   G          
+SEQRES  82 0 2880    C   A   U   A   G   A   C   A   G   C   C   A   G          
+SEQRES  83 0 2880    G   A   G   G   U   U   G   G   C   U   U   A   G          
+SEQRES  84 0 2880    A   A   G   C   A   G   C   C   A   C   C   C   U          
+SEQRES  85 0 2880    U   C   A   A   A   G   A   G   U   G   C   G   U          
+SEQRES  86 0 2880    A   A   U   A   G   C   U   C   A   C   U   G   G          
+SEQRES  87 0 2880    U   C   G   A   G   U   G   A   C   G   A   U   G          
+SEQRES  88 0 2880    C   G   C   C   G   A   A   A   A   U   G   A   U          
+SEQRES  89 0 2880    C   G   G   G   G   C   U   C   A   A   G   U   G          
+SEQRES  90 0 2880    A   U   C   U   A   C   C   G   A   A   G   C   U          
+SEQRES  91 0 2880    A   U   G   G   A   U   U   C   A   A   C   U   C          
+SEQRES  92 0 2880    G   C   G   A   A   G   C   G   A   G   U   U   G          
+SEQRES  93 0 2880    U   C   U   G   G   U   A   G   G   G   G   A   G          
+SEQRES  94 0 2880    C   G   U   U   C   A   G   U   C   C   G   C   G          
+SEQRES  95 0 2880    G   A   G   A   A   G   C   C   A   U   A   C   C          
+SEQRES  96 0 2880    G   G   A   A   G   G   A   G   U   G   G   U   G          
+SEQRES  97 0 2880    G   A   G   C   C   G   A   C   U   G   A   A   G          
+SEQRES  98 0 2880    U   G   C   G   G   A   U   G   C   C   G   G   C          
+SEQRES  99 0 2880    A   U   G   A   G   U   A   A   C   G   A   U   A          
+SEQRES 100 0 2880    A   A   A   G   A   A   G   U   G   A   G   A   A          
+SEQRES 101 0 2880    U   C   U   U   C   U   U   C   G   C   C   G   U          
+SEQRES 102 0 2880    A   A   G   G   A   C   A   A   G   G   G   U   U          
+SEQRES 103 0 2880    C   C   U   G   G   G   G   A   A   G   G   G   U          
+SEQRES 104 0 2880    C   G   U   C   C   G   C   C   C   A   G   G   G          
+SEQRES 105 0 2880    A   A   A   G   U   C   G   G   G   A   C   C   U          
+SEQRES 106 0 2880    A   A   G   G   U   G   A   G   G   C   C   G   A          
+SEQRES 107 0 2880    A   C   G   G   C   G   C   A   G   C   C   G   A          
+SEQRES 108 0 2880    U   G   G   A   C   A   G   C   A   G   G   U   C          
+SEQRES 109 0 2880    A   A   G   A   U   U   C   C   U   G   C   A   C          
+SEQRES 110 0 2880    C   G   A   U   C   A   U   G   U   G   G   A   G          
+SEQRES 111 0 2880    U   G   A   U   G   G   A   G   G   G   A   C   G          
+SEQRES 112 0 2880    C   A   U   U   A   C   G   C   U   A   U   C   C          
+SEQRES 113 0 2880    A   A   U   G   C   C   A   A   G   C   U   A   U          
+SEQRES 114 0 2880    G   G   C   U   A   U   G   C   U   G   G   U   U          
+SEQRES 115 0 2880    G   G   U   A   C   G   C   U   C   A   A   G   G          
+SEQRES 116 0 2880    G   C   G   A   U   C   G   G   G   U   C   A   G          
+SEQRES 117 0 2880    A   A   A   A   U   C   U   A   C   C   G   G   U          
+SEQRES 118 0 2880    C   A   C   A   U   G   C   C   U   C   A   G   A          
+SEQRES 119 0 2880    C   G   U   A   U   C   G   G   G   A   G   C   U          
+SEQRES 120 0 2880    U   C   C   U   C   G   G   A   A   G   C   G   A          
+SEQRES 121 0 2880    A   G   U   U   G   G   A   A   A   C   G   C   G          
+SEQRES 122 0 2880    A   C   G   G   U   G   C   C   A   A   G   A   A          
+SEQRES 123 0 2880    A   A   G   C   U   U   C   U   A   A   A   C   G          
+SEQRES 124 0 2880    U   U   G   A   A   A   C   A   U   G   A   U   U          
+SEQRES 125 0 2880    G   C   C   C   G   U   A   C   C   G   C   A   A          
+SEQRES 126 0 2880    A   C   C   G   A   C   A   C   A   G   G   U   G          
+SEQRES 127 0 2880    U   C   C   G   A   G   U   G   U   C   A   A   U          
+SEQRES 128 0 2880    G   C   A   C   U   A   A   G   G   C   G   C   G          
+SEQRES 129 0 2880    C   G   A   G   A   G   A   A   C   C   C   U   C          
+SEQRES 130 0 2880    G   U   U   A   A   G   G   A   A   C   U   U   U          
+SEQRES 131 0 2880    G   C   A   A   U   C   U   C   A   C   C   C   C          
+SEQRES 132 0 2880    G   U   A   A   C   U   U   C   G   G   A   A   G          
+SEQRES 133 0 2880    A   A   G   G   G   G   U   C   C   C   C   A   C          
+SEQRES 134 0 2880    G   C   U   U   C   G   C   G   U   G   G   G   G          
+SEQRES 135 0 2880    C   G   C   A   G   U   G   A   A   U   A   G   G          
+SEQRES 136 0 2880    C   C   C   A   G   G   C   G   A   C   U   G   U          
+SEQRES 137 0 2880    U   U   A   C   C   A   A   A   A   U   C   A   C          
+SEQRES 138 0 2880    A   G   C   A   C   U   C   U   G   C   C   A   A          
+SEQRES 139 0 2880    C   A   C   G   A   A   C   A   G   U   G   G   A          
+SEQRES 140 0 2880    C   G   U   A   U   A   G   G   G   U   G   U   G          
+SEQRES 141 0 2880    A   C   G   C   C   U   G   C   C   C   G   G   U          
+SEQRES 142 0 2880    G   C   C   G   G   A   A   G   G   U   C   A   A          
+SEQRES 143 0 2880    G   U   G   G   A   G   C   G   G   U   G   C   A          
+SEQRES 144 0 2880    A   G   C   U   G   C   G   A   A   A   U   G   A          
+SEQRES 145 0 2880    A   G   C   C   C   C   G   G   U   G   A   A   C          
+SEQRES 146 0 2880    G   G   C   G   G   C   C   G   U   A   A   C   U          
+SEQRES 147 0 2880    A   U   A   A   C   G   G   U   C   C   U   A   A          
+SEQRES 148 0 2880    G   G   U   A   G   C   G   A   A   A   U   U   C          
+SEQRES 149 0 2880    C   U   U   G   U   C   G   G   G   U   A   A   G          
+SEQRES 150 0 2880    U   U   C   C   G   A   C   C   U   G   C   A   C          
+SEQRES 151 0 2880    G   A   A   A   G   G   C   G   U   A   A   C   G          
+SEQRES 152 0 2880    A   U   C   U   G   G   G   C   G   C   U   G   U          
+SEQRES 153 0 2880    C   U   C   A   A   C   G   A   G   G   G   A   C          
+SEQRES 154 0 2880    U   C   G   G   U   G   A   A   A   U   U   G   A          
+SEQRES 155 0 2880    A   U   U   G   G   C   U   G   U   A   A   A   G          
+SEQRES 156 0 2880    A   U   G   C   G   G   C   C   U   A   C   C   C          
+SEQRES 157 0 2880    G   U   A   G   C   A   G   G   A   C   G   A   A          
+SEQRES 158 0 2880    A   A   G   A   C   C   C   C   G   U   G   G   A          
+SEQRES 159 0 2880    G   C   U   U   U   A   C   U   A   U   A   G   U          
+SEQRES 160 0 2880    C   U   G   G   C   A   U   U   G   G   G   A   U          
+SEQRES 161 0 2880    U   C   G   G   G   U   U   U   C   U   C   U   G          
+SEQRES 162 0 2880    C   G   U   A   G   G   A   U   A   G   G   U   G          
+SEQRES 163 0 2880    G   G   A   G   C   C   U   G   C   G   A   A   A          
+SEQRES 164 0 2880    C   U   G   G   C   C   U   U   U   U   G   G   G          
+SEQRES 165 0 2880    G   U   C   G   G   U   G   G   A   G   G   C   A          
+SEQRES 166 0 2880    A   C   G   G   U   G   A   A   A   U   A   C   C          
+SEQRES 167 0 2880    A   C   C   C   U   G   A   G   A   A   A   C   U          
+SEQRES 168 0 2880    U   G   G   A   U   U   U   C   U   A   A   C   C          
+SEQRES 169 0 2880    U   G   A   A   A   A   A   U   C   A   C   U   U          
+SEQRES 170 0 2880    U   C   G   G   G   G   A   C   C   G   U   G   C          
+SEQRES 171 0 2880    U   U   G   G   C   G   G   G   U   A   G   U   U          
+SEQRES 172 0 2880    U   G   A   C   U   G   G   G   G   C   G   G   U          
+SEQRES 173 0 2880    C   G   C   C   U   C   C   C   A   A   A   A   U          
+SEQRES 174 0 2880    G   U   A   A   C   G   G   A   G   G   C   G   C          
+SEQRES 175 0 2880    C   C   A   A   A   G   G   U   C   A   C   C   U          
+SEQRES 176 0 2880    C   A   A   G   A   C   G   G   U   U   G   G   A          
+SEQRES 177 0 2880    A   A   U   C   G   U   C   U   G   U   A   G   A          
+SEQRES 178 0 2880    G   C   G   C   A   A   A   G   G   U   A   G   A          
+SEQRES 179 0 2880    A   G   G   U   G   G   C   U   U   G   A   C   U          
+SEQRES 180 0 2880    G   C   G   A   G   A   C   U   G   A   C   A   C          
+SEQRES 181 0 2880    G   U   C   G   A   G   C   A   G   G   G   A   G          
+SEQRES 182 0 2880    G   A   A   A   C   U   C   G   G   G   C   U   U          
+SEQRES 183 0 2880    A   G   U   G   A   A   C   C   G   G   U   G   G          
+SEQRES 184 0 2880    U   A   C   C   G   U   G   U   G   G   A   A   G          
+SEQRES 185 0 2880    G   G   C   C   A   U   C   G   A   U   C   A   A          
+SEQRES 186 0 2880    C   G   G   A   U   A   A   A   A   G   U   U   A          
+SEQRES 187 0 2880    C   C   C   C   G   G   G   G   A   U   A   A   C          
+SEQRES 188 0 2880    A   G   G   C   U   G   A   U   C   U   C   C   C          
+SEQRES 189 0 2880    C   C   G   A   G   A   G   U   C   C   A   U   A          
+SEQRES 190 0 2880    U   C   G   G   C   G   G   G   G   A   G   G   U          
+SEQRES 191 0 2880    U   U   G   G   C   A   C   C   U   C   G   A   U          
+SEQRES 192 0 2880    G   U   C   G   G   C   U   C   G   U   C   G   C          
+SEQRES 193 0 2880    A   U   C   C   U   G   G   G   G   C   U   G   A          
+SEQRES 194 0 2880    A   G   A   A   G   G   U   C   C   C   A   A   G          
+SEQRES 195 0 2880    G   G   U   U   G   G   G   C   U   G   U   U   C          
+SEQRES 196 0 2880    G   C   C   C   A   U   U   A   A   A   G   C   G          
+SEQRES 197 0 2880    G   C   A   C   G   C   G   A   G   C   U   G   G          
+SEQRES 198 0 2880    G   U   U   C   A   G   A   A   C   G   U   C   G          
+SEQRES 199 0 2880    U   G   A   G   A   C   A   G   U   U   C   G   G          
+SEQRES 200 0 2880    U   C   U   C   U   A   U   C   C   G   C   U   A          
+SEQRES 201 0 2880    C   G   G   G   C   G   C   A   G   G   A   G   A          
+SEQRES 202 0 2880    A   U   U   G   A   G   G   G   G   A   G   U   U          
+SEQRES 203 0 2880    G   C   U   C   C   U   A   G   U   A   C   G   A          
+SEQRES 204 0 2880    G   A   G   G   A   C   C   G   G   A   G   U   G          
+SEQRES 205 0 2880    A   A   C   G   G   A   C   C   G   C   U   G   G          
+SEQRES 206 0 2880    U   C   U   C   C   C   U   G   C   U   G   U   C          
+SEQRES 207 0 2880    G   U   A   C   C   A   A   C   G   G   C   A   C          
+SEQRES 208 0 2880    A   U   G   C   A   G   G   G   U   A   G   C   U          
+SEQRES 209 0 2880    A   U   G   U   C   C   G   G   A   A   C   G   G          
+SEQRES 210 0 2880    A   U   A   A   C   C   G   C   U   G   A   A   A          
+SEQRES 211 0 2880    G   C   A   U   C   U   A   A   G   C   G   G   G          
+SEQRES 212 0 2880    A   A   G   C   C   A   G   C   C   C   C   A   A          
+SEQRES 213 0 2880    G   A   U   G   A   G   U   U   C   U   C   C   C          
+SEQRES 214 0 2880    A   C   U   G   U   U   U   A   U   C   A   G   G          
+SEQRES 215 0 2880    U   A   A   G   A   C   U   C   C   C   G   G   A          
+SEQRES 216 0 2880    A   G   A   C   C   A   C   C   G   G   G   U   U          
+SEQRES 217 0 2880    A   A   G   A   G   G   C   C   A   G   G   C   G          
+SEQRES 218 0 2880    U   G   C   A   C   G   C   A   U   A   G   C   A          
+SEQRES 219 0 2880    A   U   G   U   G   U   U   C   A   G   C   G   G          
+SEQRES 220 0 2880    A   C   U   G   G   U   G   C   U   C   A   U   C          
+SEQRES 221 0 2880    A   G   U   C   G   A   G   G   U   C   U   U   G          
+SEQRES 222 0 2880    A   C   C   A   C   U   C                                  
+HET    SPS  02881      22                                                       
+HETNAM     SPS SPARSOMYCIN                                                      
+FORMUL   2  SPS    C13 H19 N3 O5 S2                                             
+SITE     1 AC1  1   A 02581                                                     
+CRYST1  169.100  409.900  696.300  90.00  90.00  90.00 I 2 2 2       8          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.005914  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.002440  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.001436        0.00000                         
+HETATM    1  C1  SPS 02881      70.028 126.789 105.784  1.00 40.74           C
+HETATM    2  O1  SPS 02881      68.750 126.599 106.403  1.00 40.74           O
+HETATM    3  N2  SPS 02881      70.918 125.688 105.674  1.00 40.74           N
+HETATM    4  C3  SPS 02881      72.180 125.847 105.070  1.00 40.74           C
+HETATM    5  O3  SPS 02881      73.074 124.734 104.958  1.00 40.74           O
+HETATM    6  N4  SPS 02881      72.561 127.111 104.582  1.00 40.74           N
+HETATM    7  C5  SPS 02881      71.686 128.224 104.682  1.00 40.74           C
+HETATM    8  C7  SPS 02881      72.153 129.593 104.129  1.00 40.74           C
+HETATM    9  C6  SPS 02881      70.407 128.072 105.295  1.00 40.74           C
+HETATM   10  C8  SPS 02881      69.431 129.274 105.417  1.00 40.74           C
+HETATM   11  C9  SPS 02881      68.377 129.213 104.291  1.00 40.74           C
+HETATM   12  C10 SPS 02881      67.421 130.412 104.412  1.00 40.74           C
+HETATM   13  O10 SPS 02881      66.215 130.003 105.063  1.00 40.74           O
+HETATM   14  N11 SPS 02881      67.715 131.793 103.920  1.00 40.74           N
+HETATM   15  C12 SPS 02881      67.473 131.927 102.448  1.00 40.74           C
+HETATM   16  C13 SPS 02881      67.824 133.364 102.008  1.00 40.74           C
+HETATM   17  O13 SPS 02881      68.685 133.316 100.866  1.00 40.74           O
+HETATM   18  C14 SPS 02881      65.982 131.654 102.088  1.00 40.74           C
+HETATM   19  S15 SPS 02881      64.889 132.650 103.141  1.00 40.74           S
+HETATM   20  C16 SPS 02881      63.163 132.324 102.713  1.00 40.74           C
+HETATM   21  S17 SPS 02881      62.289 133.897 102.532  1.00 40.74           S
+HETATM   22  C18 SPS 02881      60.559 133.581 102.104  1.00 40.74           C
+CONECT    1    2    3    9
+CONECT   12   11   13   14
+CONECT   15   14   16   18
+CONECT   16   15   17
+CONECT   18   15   19
+CONECT   20   19   21
+CONECT   22   21
+CONECT    4    3    5    6
+CONECT    7    6    8    9
+CONECT    9    1    7   10
+CONECT    8    7
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   14   12   15
+CONECT    3    1    4
+CONECT    6    4    7
+CONECT    2    1
+CONECT   13   12
+CONECT   17   16
+CONECT    5    4
+CONECT   19   18   20
+CONECT   21   20   22
+END

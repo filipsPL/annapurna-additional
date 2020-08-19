@@ -1,0 +1,4 @@
+ERROR: 192.168.2.45: unable to connect
+ERROR: CredSSP: Initialize failed, do you have correct kerberos tgt initialized ?
+Connection established using SSL.
+WARNING: Remote desktop does not support colour depth 24; falling back to 16

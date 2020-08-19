@@ -1,0 +1,462 @@
+HEADER    RNA                                     13-AUG-08   3E5C              
+TITLE     CRYSTAL STRUCTURE OF THE SMK BOX (SAM-III) RIBOSWITCH WITH            
+TITLE    2 SAM                                                                  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: SMK BOX (SAM-III) RIBOSWITCH;                              
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 OTHER_DETAILS: RNA WAS PREPARED BY IN VITRO TRANSCRIPTION            
+KEYWDS    SAM RIBOSWITCH SMK SAM-III TRANSLATION REGULATION SD, RNA             
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    C.LU                                                                  
+REVDAT   3   24-FEB-09 3E5C    1       VERSN                                    
+REVDAT   2   21-OCT-08 3E5C    1       JRNL                                     
+REVDAT   1   07-OCT-08 3E5C    0                                                
+JRNL        AUTH   C.LU,A.M.SMITH,R.T.FUCHS,F.DING,K.RAJASHANKAR,               
+JRNL        AUTH 2 T.M.HENKIN,A.KE                                              
+JRNL        TITL   CRYSTAL STRUCTURES OF THE SAM-III/S(MK) RIBOSWITCH           
+JRNL        TITL 2 REVEAL THE SAM-DEPENDENT TRANSLATION INHIBITION              
+JRNL        TITL 3 MECHANISM.                                                   
+JRNL        REF    NAT.STRUCT.MOL.BIOL.          V.  15  1076 2008              
+JRNL        REFN                   ISSN 1545-9993                               
+JRNL        PMID   18806797                                                     
+JRNL        DOI    10.1038/NSMB.1494                                            
+REMARK   1                                                                      
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    2.25 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : CNS 1.2                                              
+REMARK   3   AUTHORS     : BRUNGER,ADAMS,CLORE,DELANO,GROS,GROSSE-              
+REMARK   3               : KUNSTLEVE,JIANG,KUSZEWSKI,NILGES, PANNU,             
+REMARK   3               : READ,RICE,SIMONSON,WARREN                            
+REMARK   3                                                                      
+REMARK   3  REFINEMENT TARGET : NULL                                            
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 2.25                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 19.90                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : 0.000                          
+REMARK   3   DATA CUTOFF HIGH         (ABS(F)) : 1443315.130                    
+REMARK   3   DATA CUTOFF LOW          (ABS(F)) : 0.0000                         
+REMARK   3   COMPLETENESS (WORKING+TEST)   (%) : 93.3                           
+REMARK   3   NUMBER OF REFLECTIONS             : 9607                           
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE            (WORKING SET) : 0.221                           
+REMARK   3   FREE R VALUE                     : 0.227                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 4.800                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 460                             
+REMARK   3   ESTIMATED ERROR OF FREE R VALUE  : 0.011                           
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : 6                            
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : 2.25                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : 2.39                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : 69.40                        
+REMARK   3   REFLECTIONS IN BIN    (WORKING SET) : 1108                         
+REMARK   3   BIN R VALUE           (WORKING SET) : 0.3410                       
+REMARK   3   BIN FREE R VALUE                    : 0.3350                       
+REMARK   3   BIN FREE R VALUE TEST SET SIZE  (%) : 5.30                         
+REMARK   3   BIN FREE R VALUE TEST SET COUNT     : 62                           
+REMARK   3   ESTIMATED ERROR OF BIN FREE R VALUE : 0.043                        
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 0                                       
+REMARK   3   NUCLEIC ACID ATOMS       : 1155                                    
+REMARK   3   HETEROGEN ATOMS          : 42                                      
+REMARK   3   SOLVENT ATOMS            : 69                                      
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : 47.80                          
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 54.50                          
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : -8.63000                                             
+REMARK   3    B22 (A**2) : -8.63000                                             
+REMARK   3    B33 (A**2) : 17.26000                                             
+REMARK   3    B12 (A**2) : 0.00000                                              
+REMARK   3    B13 (A**2) : 0.00000                                              
+REMARK   3    B23 (A**2) : 0.00000                                              
+REMARK   3                                                                      
+REMARK   3  ESTIMATED COORDINATE ERROR.                                         
+REMARK   3   ESD FROM LUZZATI PLOT        (A) : 0.30                            
+REMARK   3   ESD FROM SIGMAA              (A) : 0.40                            
+REMARK   3   LOW RESOLUTION CUTOFF        (A) : 5.00                            
+REMARK   3                                                                      
+REMARK   3  CROSS-VALIDATED ESTIMATED COORDINATE ERROR.                         
+REMARK   3   ESD FROM C-V LUZZATI PLOT    (A) : 0.35                            
+REMARK   3   ESD FROM C-V SIGMAA          (A) : 0.43                            
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES.                                   
+REMARK   3   BOND LENGTHS                 (A) : 0.011                           
+REMARK   3   BOND ANGLES            (DEGREES) : 1.70                            
+REMARK   3   DIHEDRAL ANGLES        (DEGREES) : 19.20                           
+REMARK   3   IMPROPER ANGLES        (DEGREES) : 1.54                            
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL MODEL : RESTRAINED                                
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.    RMS    SIGMA                
+REMARK   3   MAIN-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   MAIN-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN BOND              (A**2) : NULL  ; NULL                 
+REMARK   3   SIDE-CHAIN ANGLE             (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELING.                                              
+REMARK   3   METHOD USED : FLAT MODEL                                           
+REMARK   3   KSOL        : 0.40                                                 
+REMARK   3   BSOL        : 56.72                                                
+REMARK   3                                                                      
+REMARK   3  NCS MODEL : NULL                                                    
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS.                         RMS   SIGMA/WEIGHT          
+REMARK   3   GROUP  1  POSITIONAL            (A) : NULL  ; NULL                 
+REMARK   3   GROUP  1  B-FACTOR           (A**2) : NULL  ; NULL                 
+REMARK   3                                                                      
+REMARK   3  PARAMETER FILE  1  : ION.PARAM                                      
+REMARK   3  PARAMETER FILE  2  : WATER_REP.PARAM                                
+REMARK   3  PARAMETER FILE  3  : DNA-RNA_REP.PARAM                              
+REMARK   3  PARAMETER FILE  4  : GTP.PARAM                                      
+REMARK   3  PARAMETER FILE  5  : SAMTEST.PARAM                                  
+REMARK   3  PARAMETER FILE  6  : NULL                                           
+REMARK   3  TOPOLOGY FILE  1   : ION.TOP                                        
+REMARK   3  TOPOLOGY FILE  2   : DNA-RNA.TOP                                    
+REMARK   3  TOPOLOGY FILE  3   : WATER.TOP                                      
+REMARK   3  TOPOLOGY FILE  4   : GTP.TOP                                        
+REMARK   3  TOPOLOGY FILE  5   : SAMTEST.TOP                                    
+REMARK   3  TOPOLOGY FILE  6   : NULL                                           
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: BULK SOLVENT MODEL USED                   
+REMARK   4                                                                      
+REMARK   4 3E5C COMPLIES WITH FORMAT V. 3.15, 01-DEC-08                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 21-AUG-08.                  
+REMARK 100 THE RCSB ID CODE IS RCSB048894.                                      
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 21-NOV-07; 22-OCT-07               
+REMARK 200  TEMPERATURE           (KELVIN) : 100; 100                           
+REMARK 200  PH                             : 7                                  
+REMARK 200  NUMBER OF CRYSTALS USED        : 2                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y; Y                               
+REMARK 200  RADIATION SOURCE               : APS; CHESS                         
+REMARK 200  BEAMLINE                       : 24-ID-E; F1                        
+REMARK 200  X-RAY GENERATOR MODEL          : NULL; NULL                         
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M; M                               
+REMARK 200  WAVELENGTH OR RANGE        (A) : 0.9792; 0.918                      
+REMARK 200  MONOCHROMATOR                  : NULL; NULL                         
+REMARK 200  OPTICS                         : NULL; NULL                         
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : CCD; CCD                           
+REMARK 200  DETECTOR MANUFACTURER          : ADSC QUANTUM 315; ADSC             
+REMARK 200                                   QUANTUM 210                        
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : HKL-2000                           
+REMARK 200  DATA SCALING SOFTWARE          : HKL-2000                           
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 9607                               
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 2.250                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 20.000                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : 37.100                             
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 93.3                               
+REMARK 200  DATA REDUNDANCY                : 9.800                              
+REMARK 200  R MERGE                    (I) : 0.06900                            
+REMARK 200  R SYM                      (I) : 0.06500                            
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 24.7000                            
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 2.25                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.35                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 74.0                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : 4.70                               
+REMARK 200  R MERGE FOR SHELL          (I) : 0.37000                            
+REMARK 200  R SYM FOR SHELL            (I) : 0.41700                            
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : 1.600                              
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH; SINGLE WAVELENGTH           
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: SAD+MR                       
+REMARK 200 SOFTWARE USED: PHASER                                                
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 58.91                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.99                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: 40 MM SODIUM CACODYLATE, 80 MM           
+REMARK 280  SRCL, 15% MPD, 2 MM SPERMINE-HCL, PH 7, VAPOR DIFFUSION,            
+REMARK 280  HANGING DROP, TEMPERATURE 298K                                      
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: I 41 2 2                         
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X+1/2,-Y+1/2,Z+1/2                                     
+REMARK 290       3555   -Y,X+1/2,Z+1/4                                          
+REMARK 290       4555   Y+1/2,-X,Z+3/4                                          
+REMARK 290       5555   -X+1/2,Y,-Z+3/4                                         
+REMARK 290       6555   X,-Y+1/2,-Z+1/4                                         
+REMARK 290       7555   Y+1/2,X+1/2,-Z+1/2                                      
+REMARK 290       8555   -Y,-X,-Z                                                
+REMARK 290       9555   X+1/2,Y+1/2,Z+1/2                                       
+REMARK 290      10555   -X,-Y,Z                                                 
+REMARK 290      11555   -Y+1/2,X,Z+3/4                                          
+REMARK 290      12555   Y,-X+1/2,Z+1/4                                          
+REMARK 290      13555   -X,Y+1/2,-Z+1/4                                         
+REMARK 290      14555   X+1/2,-Y,-Z+3/4                                         
+REMARK 290      15555   Y,X,-Z                                                  
+REMARK 290      16555   -Y+1/2,-X+1/2,-Z+1/2                                    
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000       48.90300            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       43.56900            
+REMARK 290   SMTRY1   3  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   3  1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY3   3  0.000000  0.000000  1.000000       21.78450            
+REMARK 290   SMTRY1   4  0.000000  1.000000  0.000000       48.90300            
+REMARK 290   SMTRY2   4 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   4  0.000000  0.000000  1.000000       65.35350            
+REMARK 290   SMTRY1   5 -1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY2   5  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   5  0.000000  0.000000 -1.000000       65.35350            
+REMARK 290   SMTRY1   6  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   6  0.000000 -1.000000  0.000000       48.90300            
+REMARK 290   SMTRY3   6  0.000000  0.000000 -1.000000       21.78450            
+REMARK 290   SMTRY1   7  0.000000  1.000000  0.000000       48.90300            
+REMARK 290   SMTRY2   7  1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY3   7  0.000000  0.000000 -1.000000       43.56900            
+REMARK 290   SMTRY1   8  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   8 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   8  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   9  1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY2   9  0.000000  1.000000  0.000000       48.90300            
+REMARK 290   SMTRY3   9  0.000000  0.000000  1.000000       43.56900            
+REMARK 290   SMTRY1  10 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2  10  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3  10  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1  11  0.000000 -1.000000  0.000000       48.90300            
+REMARK 290   SMTRY2  11  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3  11  0.000000  0.000000  1.000000       65.35350            
+REMARK 290   SMTRY1  12  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2  12 -1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY3  12  0.000000  0.000000  1.000000       21.78450            
+REMARK 290   SMTRY1  13 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2  13  0.000000  1.000000  0.000000       48.90300            
+REMARK 290   SMTRY3  13  0.000000  0.000000 -1.000000       21.78450            
+REMARK 290   SMTRY1  14  1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY2  14  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3  14  0.000000  0.000000 -1.000000       65.35350            
+REMARK 290   SMTRY1  15  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2  15  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3  15  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1  16  0.000000 -1.000000  0.000000       48.90300            
+REMARK 290   SMTRY2  16 -1.000000  0.000000  0.000000       48.90300            
+REMARK 290   SMTRY3  16  0.000000  0.000000 -1.000000       43.56900            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: MONOMERIC                  
+REMARK 350 SOFTWARE USED: PISA                                                  
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: CLOSE CONTACTS IN SAME ASYMMETRIC UNIT                     
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING ATOMS ARE IN CLOSE CONTACT.                            
+REMARK 500                                                                      
+REMARK 500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI           DISTANCE          
+REMARK 500   O1B  GTP A     1     O    HOH A   284              1.98            
+REMARK 500   O2A  GTP A     1     O    HOH A   275              2.17            
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+REMARK 500                                                                      
+REMARK 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+REMARK 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+REMARK 500      C A   4   O4' -  C1' -  N1  ANGL. DEV. =   4.5 DEGREES          
+REMARK 500      G A  28   C3' -  O3' -  P   ANGL. DEV. =   8.8 DEGREES          
+REMARK 500      G A  36   O4' -  C1' -  N9  ANGL. DEV. =   6.4 DEGREES          
+REMARK 500      G A  48   O4' -  C1' -  N9  ANGL. DEV. =   4.4 DEGREES          
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 620                                                                      
+REMARK 620 METAL COORDINATION                                                   
+REMARK 620  (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;              
+REMARK 620  SSEQ=SEQUENCE NUMBER; I=INSERTION CODE):                            
+REMARK 620                                                                      
+REMARK 620 COORDINATION ANGLES FOR:  M RES CSSEQI METAL                         
+REMARK 620                              SR A 207  SR                            
+REMARK 620 N RES CSSEQI ATOM                                                    
+REMARK 620 1   C A   6   OP2                                                    
+REMARK 620 2 HOH A 282   O   150.6                                              
+REMARK 620 N                    1                                               
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SR A 204                  
+REMARK 800 SITE_IDENTIFIER: AC3                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SR A 207                  
+REMARK 800 SITE_IDENTIFIER: AC4                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SR A 208                  
+REMARK 800 SITE_IDENTIFIER: AC7                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE SAM A 216                 
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 3E5E   RELATED DB: PDB                                   
+REMARK 900 RELATED ID: 3E5F   RELATED DB: PDB                                   
+DBREF  3E5C A    1    53  PDB    3E5C     3E5C             1     53             
+SEQRES   1 A   53  GTP   U   U   C   C   C   G   A   A   A   G   G   A          
+SEQRES   2 A   53    U   G   G   C   G   G   A   A   A   C   G   C   C          
+SEQRES   3 A   53    A   G   A   U   G   C   C   U   U   G   U   A   A          
+SEQRES   4 A   53    C   C   G   A   A   A   G   G   G   G   G   A   A          
+SEQRES   5 A   53    U                                                          
+MODRES 3E5C GTP A    1    G  GUANOSINE-5'-TRIPHOSPHATE                          
+HET    GTP  A   1      32                                                       
+HET     SR  A 201       1                                                       
+HET     SR  A 202       1                                                       
+HET     SR  A 203       1                                                       
+HET     SR  A 204       1                                                       
+HET     SR  A 205       1                                                       
+HET     SR  A 206       1                                                       
+HET     SR  A 207       1                                                       
+HET     SR  A 208       1                                                       
+HET     SR  A 209       1                                                       
+HET     SR  A 210       1                                                       
+HET     SR  A 211       1                                                       
+HET     SR  A 212       1                                                       
+HET     SR  A 213       1                                                       
+HET     SR  A 214       1                                                       
+HET     SR  A 215       1                                                       
+HET    SAM  A 216      27                                                       
+HETNAM     GTP GUANOSINE-5'-TRIPHOSPHATE                                        
+HETNAM      SR STRONTIUM ION                                                    
+HETNAM     SAM S-ADENOSYLMETHIONINE                                             
+FORMUL   1  GTP    C10 H16 N5 O14 P3                                            
+FORMUL   2   SR    15(SR 2+)                                                    
+FORMUL  17  SAM    C15 H22 N6 O5 S                                              
+FORMUL  18  HOH   *69(H2 O)                                                     
+LINK         O2A GTP A   1                SR    SR A 212     1555   1555  2.65  
+LINK         OP2   C A   6                SR    SR A 207     1555   1555  2.56  
+LINK         O4    U A  14                SR    SR A 213     1555   1555  2.53  
+LINK         OP2   A A  38                SR    SR A 215     1555   1555  2.41  
+LINK        SR    SR A 207                 O   HOH A 282     1555   1555  2.55  
+LINK        SR    SR A 208                 O   HOH A 224     1555   1555  2.41  
+LINK         O3' GTP A   1                 P     U A   2     1555   1555  1.70  
+SITE     1 AC1  1 HOH A 223                                                     
+SITE     1 AC3  2 HOH A 219  HOH A 282                                          
+SITE     1 AC4  1 HOH A 224                                                     
+SITE     1 AC7  2 HOH A 239  HOH A 273                                          
+CRYST1   97.806   97.806   87.138  90.00  90.00  90.00 I 41 2 2     16          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.010224  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.010224  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.011476        0.00000                         
+HETATM    1  N   SAM A 216      17.637  -6.689  25.085  1.00 60.17           N
+HETATM    2  CA  SAM A 216      16.288  -6.210  25.520  1.00 59.84           C
+HETATM    3  C   SAM A 216      16.105  -6.208  27.051  1.00 60.37           C
+HETATM    4  O   SAM A 216      17.023  -6.549  27.811  1.00 60.61           O
+HETATM    5  OXT SAM A 216      15.037  -5.852  27.578  1.00 60.58           O
+HETATM    6  CB  SAM A 216      15.209  -7.031  24.823  1.00 59.54           C
+HETATM    7  CG  SAM A 216      13.983  -6.200  24.447  1.00 56.99           C
+HETATM    8  SD  SAM A 216      12.483  -7.143  24.061  1.00 54.23           S
+HETATM    9  CE  SAM A 216      11.401  -6.648  25.426  1.00 52.58           C
+HETATM   10  C5' SAM A 216      12.897  -8.827  24.613  1.00 47.06           C
+HETATM   11  C4' SAM A 216      12.125  -9.913  23.872  1.00 41.16           C
+HETATM   12  O4' SAM A 216      12.057  -9.621  22.488  1.00 38.65           O
+HETATM   13  C3' SAM A 216      12.834 -11.246  23.972  1.00 38.41           C
+HETATM   14  O3' SAM A 216      11.848 -12.236  24.083  1.00 36.73           O
+HETATM   15  C2' SAM A 216      13.570 -11.391  22.659  1.00 35.16           C
+HETATM   16  O2' SAM A 216      13.674 -12.736  22.285  1.00 33.82           O
+HETATM   17  C1' SAM A 216      12.678 -10.632  21.709  1.00 34.40           C
+HETATM   18  N9  SAM A 216      13.363  -9.990  20.575  1.00 30.38           N
+HETATM   19  C8  SAM A 216      13.053 -10.244  19.271  1.00 28.71           C
+HETATM   20  N7  SAM A 216      13.841  -9.488  18.477  1.00 28.45           N
+HETATM   21  C5  SAM A 216      14.644  -8.737  19.265  1.00 28.44           C
+HETATM   22  C6  SAM A 216      15.625  -7.794  18.964  1.00 28.43           C
+HETATM   23  N6  SAM A 216      15.896  -7.500  17.692  1.00 27.54           N
+HETATM   24  N1  SAM A 216      16.303  -7.161  19.995  1.00 28.00           N
+HETATM   25  C2  SAM A 216      16.005  -7.473  21.312  1.00 26.69           C
+HETATM   26  N3  SAM A 216      15.038  -8.418  21.597  1.00 27.60           N
+HETATM   27  C4  SAM A 216      14.351  -9.034  20.596  1.00 28.19           C
+CONECT    3    2    4    5
+CONECT   17   12   15   18
+CONECT   25   24   26
+CONECT   15   13   16   17
+CONECT   13   11   14   15
+CONECT   27   18   21   26
+CONECT   11   10   12   13
+CONECT   21   20   22   27
+CONECT   10    8   11
+CONECT   22   21   23   24
+CONECT   19   18   20
+CONECT    2    1    3    6
+CONECT    6    2    7
+CONECT    9    8
+CONECT    7    6    8
+CONECT    1    2
+CONECT   24   22   25
+CONECT   26   25   27
+CONECT   23   22
+CONECT   20   19   21
+CONECT   18   17   19   27
+CONECT    4    3
+CONECT   16   15
+CONECT   14   13
+CONECT   12   11   17
+CONECT    5    3
+CONECT    8    7    9   10
+END
