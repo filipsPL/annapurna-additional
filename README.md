@@ -6,6 +6,8 @@
 - [Data from manuscript](#data-from-manuscript)
 - [Training and testing datasets](#training-and-testing-datasets)
 - [Correlation plots for described scoring functions](#correlation-plots-for-described-scoring-functions)
+- [How to cite](#how-to-cite)
+- [Contact](#contact)
 <!-- TOC END -->
 
 
@@ -99,3 +101,16 @@ Correlation plots for described scoring functions are available in the [correlat
 ![](obrazki/README-24ab2b43.png)
 
 Please look at the md file or clone the repository and open html file in your browser.
+
+
+# How to cite
+
+Filip Stefaniak, Janusz M. Bujnicki, AnnapuRNA: a scoring function for predicting RNA-small molecule interactions, bioRxiv 2020.09.08.287136; doi: https://d
+
+# Contact
+
+Laboratory of Bioinformatics and Protein Engineering
+International Institute of Molecular and Cell Biology in Warsaw
+ul. Ks. Trojdena 4, 02-109 .Warsaw, Poland
+
+Head of the Laboratory: Janusz M. Bujnicki iamb@genesilico.pl
