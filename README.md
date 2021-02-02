@@ -105,7 +105,9 @@ Please look at the md file or clone the repository and open html file in your br
 
 # How to cite
 
-Filip Stefaniak, Janusz M. Bujnicki, AnnapuRNA: a scoring function for predicting RNA-small molecule interactions, bioRxiv 2020.09.08.287136; doi: https://d
+Stefaniak F, Bujnicki JM (2021) AnnapuRNA: A scoring function for predicting RNA-small molecule binding poses. PLoS Comput Biol 17(2): e1008309. https://doi.org/10.1371/journal.pcbi.1008309
+
+<s>Filip Stefaniak, Janusz M. Bujnicki, AnnapuRNA: a scoring function for predicting RNA-small molecule interactions, bioRxiv 2020.09.08.287136;</s>
 
 # Contact
 
